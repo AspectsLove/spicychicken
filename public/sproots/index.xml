@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guides on Spicy Chicken Quest</title>
+    <link>https://app.spicychicken.quest/sproots/</link>
+    <description>Recent content in Guides on Spicy Chicken Quest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Jun 2021 21:25:00 +0100</lastBuildDate><atom:link href="https://app.spicychicken.quest/sproots/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sproot Tips</title>
+      <link>https://app.spicychicken.quest/sproots/sproots/</link>
+      <pubDate>Sun, 13 Jun 2021 21:28:08 +0100</pubDate>
+      
+      <guid>https://app.spicychicken.quest/sproots/sproots/</guid>
+      <description>Quicklinks  Everyone Tanks DPS Healers  Dungeons / Trials / Raids A few quick tips to help you when you load into a dungeon, trial, or raid.
+Everyone Stand in the Good Puddles! These will heal you and/or reduce damage taken!
+    White Mage Scholar Astrologian          Heals those in it Heals / mitigates damage Heals / Damage    These do damage to enemies when they stand in it!</description>
+    </item>
+    
+    <item>
+      <title>Helpful Links</title>
+      <link>https://app.spicychicken.quest/sproots/links/</link>
+      <pubDate>Sun, 13 Jun 2021 21:28:08 +0100</pubDate>
+      
+      <guid>https://app.spicychicken.quest/sproots/links/</guid>
+      <description>Soo much information!  Ocean Fishing Gear Sets  More to come</description>
+    </item>
+    
+  </channel>
+</rss>

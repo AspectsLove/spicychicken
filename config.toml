@@ -1,0 +1,42 @@
+baseURL = "https://www.spicychicken.quest/"
+languageCode = "en-us"
+title = "Spicy Chicken Quest"
+theme = "spicy"
+description = "FFXIV Tips, Tricks, and Stuff"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[params]
+author = "Tirzah Grant of Chaos Omega"
+description = "Guides, Tips, TLDRs, and more...SpicyChicken Quest is inspired and named after a member of the Free Company Aspects of Love on Chaos Omega in Final Fantasy XIV."
+showVisitedLinks = true
+disableSearch = false
+themeVariant = "mine"
+
+landingPageName = "<strong>♥</strong> Home"
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-tags'></i> Tags"
+url = "/tags"
+weight = 30
+
+[[menu.shortcuts]]
+name="🙋 Suggestions"
+url = "/feedback"
+weight = 40
+
+[[menu.shortcuts]]
+name="❤️ Contributors"
+url = "/contributors"
+weight = 40
+
+[[menu.shortcuts]]
+name="📑 changelog"
+url = "/changelog"
+weight = 50
+
+[[menu.shortcuts]]
+name = "<img src=\"/images/mentor.png\" height=25px width=25px> Tirzah Grant"
+url = "/tirzah"
+weight = 60

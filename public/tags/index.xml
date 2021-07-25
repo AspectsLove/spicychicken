@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Spicy Chicken Quest</title>
+    <link>https://www.spicychicken.quest/tags/</link>
+    <description>Recent content in Tags on Spicy Chicken Quest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Jul 2021 04:06:27 +0100</lastBuildDate><atom:link href="https://www.spicychicken.quest/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>dungeon</title>
+      <link>https://www.spicychicken.quest/tags/dungeon/</link>
+      <pubDate>Fri, 23 Jul 2021 04:06:27 +0100</pubDate>
+      
+      <guid>https://www.spicychicken.quest/tags/dungeon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>arr</title>
+      <link>https://www.spicychicken.quest/tags/arr/</link>
+      <pubDate>Fri, 23 Jul 2021 03:45:50 +0100</pubDate>
+      
+      <guid>https://www.spicychicken.quest/tags/arr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>relics</title>
+      <link>https://www.spicychicken.quest/tags/relics/</link>
+      <pubDate>Sat, 05 Jun 2021 06:34:26 +0100</pubDate>
+      
+      <guid>https://www.spicychicken.quest/tags/relics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
