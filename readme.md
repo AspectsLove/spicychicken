@@ -11,8 +11,7 @@
 ## Additional Hugo Functions
 In addition to the usual Hugo commands, there are a few extra ones found in this specific theme. Some are from Learn itself, others are hand developed for this specific purpose and site. 
 
-* hugo new --kind chapter /path/to/filename.md
-* hugo new --kind dungeon /path/to/dungeonname.md
+* `hugo new --kind dungeon /path/to/dungeonname.md`
 
 
 ## Credits 
