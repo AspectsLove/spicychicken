@@ -2,7 +2,7 @@
 [SpicyChicken.Quest](https://spicychicken.quest) is a website built with Hugo using modified version of the [Hugo Learn Theme](https://github.com/matcornic/hugo-theme-learn). 
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/bfdb8bad-e549-439c-a60b-0767bd2762e6/deploy-status)](https://app.netlify.com/sites/festive-tereshkova-da55f6/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bfdb8bad-e549-439c-a60b-0767bd2762e6/deploy-status)](https://app.netlify.com/sites/spicychicken/deploys)
 
 -----
 ## Installation
