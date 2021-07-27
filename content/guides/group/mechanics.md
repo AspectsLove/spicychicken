@@ -4,6 +4,7 @@ date: 2021-07-25T17:12:38+01:00
 draft: false
 weight: 1
 ---
+Hello! 
 
 {{% notice info %}}
 Throughout your gameplay, you will run across various mechanics that repeat in dungeons, trials, and raids. This is an attempt to help you understand what to do if you see them
