@@ -22,7 +22,7 @@ Throughout your gameplay, you will run across various mechanics that repeat in d
 
 | Floor Patterns | Gaze  |
 | --- | -- |
-| When you see floor markers going in one direction, it means your character will be flung in that direction against your will (unless you use Arm's Length or Surecast) | No matter the boss, pillar, or mob, if you see a big red eyeball on it, **TURN AROUND and put your character's back to the eye**. You will end up either confused running around hitting people, get a debuff that will kill you, or other horrible things. | 
+| When you see floor markers going in one direction, it means your character will be flung in that direction against your will (Arm's Length or Surecast may help, but it is not always garunteed!) | No matter the boss, pillar, or mob, if you see a big red eyeball on it, **TURN AROUND and put your character's back to the eye**. You will end up either confused running around hitting people, get a debuff that will kill you, or other horrible things. | 
 | ![Floor Directions](/images/direction-marker.jpg) | ![Gaze](/images/turn-around-eye.jpg) |
 
 | Tower Markers: | | Exo Flares
@@ -49,4 +49,7 @@ Throughout your gameplay, you will run across various mechanics that repeat in d
 | If you find yourself chained to someone, **move away from them** as you will both take continuous damage until that chain breaks.  | If you start FAR away from the person you become chained to, you have to move EVEN further away from that person to break it.|
 | ![Chains](/images/close-chains.jpg) | ![Seperating Chains](/images/distancing-chains.jpg) |
 | In the above, we're close taking damage | In the above, we're moving away from each other to break the chains |
+
+| It is worth noting, that there are very specific fights where the goal of chains is to hug your partner. Those exceptions are handled in the guide unique to that dungeon, trial, or raid. |
+|---|
 

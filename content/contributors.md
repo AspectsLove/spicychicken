@@ -16,4 +16,5 @@ A massive thank you to everyone who has contributed from screenshots, to tips, t
 * **Spicy Chicken**: ...the one who inspired this entire concept.
 * **Aza'ela Light'nea**: Eager, helpful, and awesome.
 * **Spicy Chicken**: ...the one who inspired this entire concept.
-* **Ereizi Dazkar**: Mad imaging skills
+* **Ereizi Dazkar**: Mad imaging skills.
+* **Forerunner Highwind**: Ensuring countdowns help Blackmages every run.
