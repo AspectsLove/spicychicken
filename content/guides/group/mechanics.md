@@ -13,4 +13,4 @@ Throughout your gameplay, you will run across various mechanics that repeat in d
 | Stack Marker | Action Time Maneuver | Action Time Maneuver Player Action |
 | -- | -- | --- |
 | This is a huge damage attack that needs to be shared among as many people as possible. Thus... **stack on whoever has the marker** | When you see the image above, prepare to spam your buttons (keyboard / mouse / joystick) | Spam your buttons (keyboard / mouse / joystick)! We've all been there! Make sure you do not end up typing into chat when doing this action time event. It will kill you in many cases if you do! |
-| ![StackMarker](/images/stack-marker.jpg) | ![ActionTimeEvent](/images/action-time-event.jpg) | ![ActionTimeEventBar](/images/action-time-event-bar.jpg) |
+
