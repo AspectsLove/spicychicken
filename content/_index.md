@@ -9,7 +9,7 @@ weight: 9
 
 # Welcome to SpicyChicken Quest
 
-The intent of this website is to offer quick look guides for new players. It is still under development as this is a living, breathing, set of guides. Check back or [get involved](/feedback)!
+The intent of this website is to offer quick look guides for new players. It is still under development as this is a living, breathing set of guides. Check back or [get involved](/feedback)!
 
 
 
