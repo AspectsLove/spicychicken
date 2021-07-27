@@ -4,7 +4,7 @@ date: 2021-07-25T17:12:38+01:00
 draft: false
 weight: 1
 ---
-Hello 2 u! 
+ 
 
 {{% notice info %}}
 Throughout your gameplay, you will run across various mechanics that repeat in dungeons, trials, and raids. This is an attempt to help you understand what to do if you see them
@@ -51,6 +51,6 @@ Throughout your gameplay, you will run across various mechanics that repeat in d
 | ![Chains](/images/close-chains.jpg) | ![Seperating Chains](/images/distancing-chains.jpg) |
 | In the above, we're close taking damage | In the above, we're moving away from each other to break the chains |
 
-| It is worth noting, that there are very specific fights where the goal of chains is to hug your partner. Those exceptions are handled in the guide unique to that dungeon, trial, or raid. |
+| Important Note About Chains!
 |---|
-
+| It is worth noting, that there are very specific fights where the goal of chains is to hug your partner. Those exceptions are handled in the guide unique to that dungeon, trial, or raid. |
