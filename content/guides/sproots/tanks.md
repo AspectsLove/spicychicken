@@ -25,7 +25,7 @@ There are actions that a boss, or mob will perform that have them physicall turn
 | Target of Target | Enemy List |
 | --- | --- | 
 | ![target of target](/images/tot.jpg) | ![Enemy List](/images/enemy-list.png) |
-| The boss is focued on Tirzah to start, the Maiq took over as her threat and the target of target changed | **Red** means you are top of threat; **Orange** means you're near the top of the threat list; **Yellow** means you halfway up the threat list; **Green** means you are very low on the threat list | 
+| The boss focused on Tirzah to start, then Maiq **Provoked** and the target of target changed | **Red** means you are top of threat; **Orange** means you're near the top of the threat list; **Yellow** means you halfway up the threat list; **Green** means you are very low on the threat list | 
 
 {{% notice warning %}}
 As a tank, you want those boxes to be red! Red is your favourite color in the enemy list.
