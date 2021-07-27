@@ -1,7 +1,7 @@
 baseURL = "https://www.spicychicken.quest/"
 languageCode = "en-us"
 title = "Spicy Chicken Quest"
-theme = "spicy"
+theme = "hugo-learn-theme"
 description = "FFXIV Tips, Tricks, and Stuff"
 
 [outputs]
