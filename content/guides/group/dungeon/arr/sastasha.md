@@ -32,7 +32,7 @@ If you want to immediately spawn the first boss, be sure to pick up the bloody m
 
 ### Chopper
 {{% notice tip %}} 
-You can [stun](http://localhost:1313/guides/sproots/everyone/#know-your-interrupts) the boss when it casts **Charged Whisker** to keep melee in close without paralyzing them.
+You can stun the boss when it casts **Charged Whisker** to keep melee in close without paralyzing them.
 {{% /notice %}}
 
 #### Trash part 2
