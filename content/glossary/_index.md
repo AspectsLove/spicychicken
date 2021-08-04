@@ -14,7 +14,7 @@ pre = "❔ "
 This is just a glossary of terms that are used throughough the guide and in FFXIV.
 {{% /notice %}}
 
-{{% expand "Global Cooldown (GCD)" %}}
+{{% expand "Off Global Cooldown (oGCD)" %}}
 Abilities and skills that have a recast of "Instant".
 {{% /expand %}}
 
