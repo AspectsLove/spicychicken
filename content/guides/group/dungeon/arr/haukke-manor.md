@@ -1,7 +1,7 @@
 ---
 title: "28: Haukke Manor"
 date: 2021-07-23T04:04:05+01:00
-draft: false
+draft: true
 
 weight: 6
 tags: ['dungeon']

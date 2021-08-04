@@ -1,7 +1,7 @@
 ---
 title: "44: Dzemael Darkhold"
 date: 2021-07-23T04:06:13+01:00
-draft: false
+draft: true
 
 weight: 11
 tags: ['dungeon']

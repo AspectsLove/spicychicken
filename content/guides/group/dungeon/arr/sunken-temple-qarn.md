@@ -1,7 +1,7 @@
 ---
 title: "35: Sunken Temple Qarn"
 date: 2021-07-23T04:05:00+01:00
-draft: false
+draft: true
 
 weight: 8
 tags: ['dungeon']

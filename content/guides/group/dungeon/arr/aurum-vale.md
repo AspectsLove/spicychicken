@@ -1,7 +1,7 @@
 ---
 title: "47: Aurum Vale"
 date: 2021-07-23T04:06:27+01:00
-draft: false
+draft: true
 
 weight: 12
 tags: ['dungeon']

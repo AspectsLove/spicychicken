@@ -17,6 +17,6 @@ In addition to the usual Hugo commands, there are a few extra ones found in this
 ## Credits 
 * [Josey Howarth](@SudoMistress): Hosted, concept, idea.
 
-
-
+## Contributor
+* Ray Vermillion
 

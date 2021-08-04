@@ -29,7 +29,7 @@ Group up mobs together to allow the very few jobs that have AoE at this level ca
 {{% /notice %}}
 
 ### Void Soulcounter x 3
-* When a Void Soulcounter shows up, it will cast **Enthunder** which can be interupted quickly in order to prevent it getting an attack speed buff.
+* When a Void Soulcounter shows up, it will cast **Enthunder** which can be [interupted](http://localhost:1313/guides/sproots/everyone/#know-your-interrupts) quickly in order to prevent it getting an attack speed buff.
 
 ### Galvanth the Dominator
 

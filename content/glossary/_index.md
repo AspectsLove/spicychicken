@@ -14,14 +14,4 @@ pre = "❔ "
 This is just a glossary of terms that are used throughough the guide and in FFXIV.
 {{% /notice %}}
 
-{{% expand "Global Cooldown (GCD)" %}}
-*Definition goes here*
-{{% /expand %}}
-
-{{% expand "Global Cooldown (GCD)" %}}
-*Definition goes here*
-{{% /expand %}}
-
-{{% expand "Tankbuster" %}}
-*Definition goes here*
-{{% /expand %}}
+{{% children %}}

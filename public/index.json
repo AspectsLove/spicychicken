@@ -1,12 +1,5 @@
 [
 {
-	"uri": "https://www.spicychicken.quest/guides/group/mechanics/",
-	"title": "Visual Guide to Mechanics",
-	"tags": [],
-	"description": "",
-	"content": " Throughout your gameplay, you will run across various mechanics that repeat in dungeons, trials, and raids. This is an attempt to help you understand what to do if you see them\n    Stack Marker Action Time Maneuver Action Time Maneuver Player Action     This is a huge damage attack that needs to be shared among as many people as possible. Thus\u0026hellip; stack on whoever has the marker When you see the image above, prepare to spam your buttons (keyboard / mouse / joystick) Spam your buttons (keyboard / mouse / joystick)! We\u0026rsquo;ve all been there! Make sure you do not end up typing into chat when doing this action time event. It will kill you in many cases if you do!            Line Stack Marker Flare Proximity Marker     This preceeds a line attack from boss through to end of arena. Stand in the line to spread the damage amongst the group! The closer you are to the marker, the more damage you take. Do not understimate the damage being a medium distance away! This is a combination of a single target and proximity damage attack. If you have this marker on your heard get away from the group. If you see this marker on someone get as far away from them as possible            Floor Patterns Gaze     When you see floor markers going in one direction, it means your character will be flung in that direction against your will (unless you use Arm\u0026rsquo;s Length or Surecast) No matter the boss, pillar, or mob, if you see a big red eyeball on it, TURN AROUND and put your character\u0026rsquo;s back to the eye. You will end up either confused running around hitting people, get a debuff that will kill you, or other horrible things.           Tower Markers:  Exo Flares     Tower markers need a person to stand in it in order to prevent massive party or raid wide damage. Note there are different types of markers that all do the same thing! Circles with arrows point in the direction that it will go. These usually continue in a line and do a heavy damage attack if you\u0026rsquo;re caught by them.            Magnetic Polarity      Same polarity repels targets away from each other. Opposite pulls them in towards each other. More damage the closer you are to start        TETHERS are a mechanic that will be targeted on you, but what that mechanic is tends to be fight specific.\n    Examples of Tethers       Proximity Tether: Move away till the tether becomes purple. If it remains red with arrows, you will take a massive spike of damage and possibly die. Prey Tether: This usually is a tether that can be passed on to someone else. Depending on the fight you may need to pass to a DPS, or a Tank. You call it\u0026rsquo;s a prey tether as you will see the debuff for prey on you. Dragable Tether: This tethers something to you. What you do depends on the boss. Some Examples: You may need to drag what is attached to you through the boss or you may need to run into the orb attached to someone else\u0026rsquo;s tether to prevent them from taking big damage.            Chains      If you find yourself chained to someone, move away from them as you will both take continuous damage until that chain breaks. If you start FAR away from the person you become chained to, you have to move EVEN further away from that person to break it.       In the above, we\u0026rsquo;re close taking damage In the above, we\u0026rsquo;re moving away from each other to break the chains    "
-},
-{
 	"uri": "https://www.spicychicken.quest/guides/group/dungeon/arr/sastasha/",
 	"title": "15: Sastasha",
 	"tags": ["dungeon", "arr"],
@@ -28,25 +21,25 @@
 	"content": "2.0 A Real Reborn Trials Lorem Ipsum.\n"
 },
 {
-	"uri": "https://www.spicychicken.quest/glossary/",
-	"title": "Glossary",
+	"uri": "https://www.spicychicken.quest/sproots/everyone/",
+	"title": "Everyone",
 	"tags": [],
 	"description": "",
-	"content": " This is just a glossary of terms that are used throughough the guide and in FFXIV.\n Tankbuster Definition goes here\n"
+	"content": "Limit Break is your friend! You can find the action Limit Break in your \u0026ldquo;Actions \u0026amp; Traits\u0026rdquo; window, under \u0026ldquo;General\u0026rdquo;.\n Generally speaking, Limit Break is saved for the last boss for the DPS to use when the boss hits 10% health. This changes as you get further into trials / dungeons / etc. There are unique trials that require the use of LB3 by specific roles in certain circumstances.\n Death Happens If you die in battle\u0026hellip;\n  \u0026hellip;and are raised/revived/etc during combat: DO NOT: CAST, PERFORM AN ACTION, PERFORM A WEAPONSKILL. You have a few seconds of invulnerability. Give the healer a chance to heal you back up. \u0026hellip;you will get a weakness debuff. This means your main stat (STR, DEX, INT, MIND) is reduced by 25%. If you die again while under the weakness effect, you get the Brink of Death debuff which reduces those stats down by 50%.  Know your interrupts! You can find most interrupts in your \u0026ldquo;Actions \u0026amp; Traits\u0026rdquo; window under the section \u0026ldquo;Role\u0026rdquo;\n You have to test to find out which stuns / interrupts work. General rule of thumb, is the left castbar can be stunned or interrupted, and the right may be stunable.\n There are two types of cast bars, as seen below.    Interruptable This may be stunnable          The different types of interrupts    Interrupt Icon Name Role that uses it What it does      Leg Sweep NIN, DRG, MNK, SAM Stuns    Head Graze BRD, MCH, DNC Spell Interrupt    Low Blow DRK, PLD, WAR, GNB Stuns    Interject DRK, PLD, WAR, GNB Spell Interrupt    Shield Bash PLD Stun: It requires planning as it is on the GCD    Repose WHM, SCH, AST Sleep (counts as a stun): but requires cast time or Swiftcast; rarely used in dungeons, trials, etc    Sleep BLM Sleep (counts as a stun): requires cast time or Swiftcast; rarely used in dungeons, trials, etc    Know your puddles! These will heal you and/or reduce damage taken!\n    White Mage Scholar Astrologian Astrologian           Heals those in it Heals / Mitigates Heals / Does Damage Heals / Mitigates    These do damage to enemies when they stand in it!\n    Ninja Dark Knight Summoner          Does damage to targets in it Does damage to targets in it Does damage to targets in it    "
 },
 {
-	"uri": "https://www.spicychicken.quest/guides/sproots/",
+	"uri": "https://www.spicychicken.quest/sproots/",
 	"title": "Roles",
 	"tags": [],
 	"description": "",
-	"content": "Classes, Jobs, Roles Sproot Tips Select your role for quick tips:\n Everyone Healers DPS Tanks   Requested changes  role actions for healers and dps cast bar differences shifting of damage puddles to tank section tank turns does not mean you lose threat  "
+	"content": "Classes, Jobs, Roles Sproot Tips Select your role for quick tips:\n Everyone   DPS   Healers   Tanks   Visual Guide to Mechanics    "
 },
 {
 	"uri": "https://www.spicychicken.quest/guides/",
 	"title": "Guides",
 	"tags": [],
 	"description": "",
-	"content": "So you need help eh? Helpful Things Rule 1 of Mentor Club:\nIf you have a crown, do what you can to help. Otherwise turn it off.\nRule 2 of Mentor Club:\nThere is so much content in this game and mentors can end up anywhere.\nIf you find a mentor who can\u0026rsquo;t answer every single questions, it does not make them a bad mentor.\nThey should be able to point you in a good direction though.\nTopics  Roles   Group Content   Crafting   Helpful Links   "
+	"content": "So you need help eh? Helpful Things Rule 1 of Mentor Club:\nIf you have a crown, do what you can to help. Otherwise turn it off.\nRule 2 of Mentor Club:\nThere is so much content in this game and mentors can end up anywhere.\nIf you find a mentor who can\u0026rsquo;t answer every single questions, it does not make them a bad mentor.\nThey should be able to point you in a good direction though.\nTopics  Group Content   Crafting   Helpful Links   "
 },
 {
 	"uri": "https://www.spicychicken.quest/guides/group/dungeon/",
@@ -74,7 +67,7 @@
 	"title": "A Realm Reborn",
 	"tags": [],
 	"description": "",
-	"content": "2.0 A Real Reborn Dungeons Lvl: Dungeon Name  15: Sastasha   16: Tam Tara Deepcroft   17: Copperbell Mines   20: Halatali   24: Thousand Maws Toto Rak   28: Haukke Manor   32: Brayfloxs Longstop   35: Sunken Temple Qarn   38: Cutters Cry   41: Stone Vigil   44: Dzemael Darkhold   47: Aurum Vale   "
+	"content": "2.0 A Real Reborn Dungeons Lvl: Dungeon Name  15: Sastasha   16: Tam Tara Deepcroft   17: Copperbell Mines   "
 },
 {
 	"uri": "https://www.spicychicken.quest/guides/group/raid/heavensward/",
@@ -89,6 +82,13 @@
 	"tags": [],
 	"description": "",
 	"content": "Heavensward Trials Lorem Ipsum.\n"
+},
+{
+	"uri": "https://www.spicychicken.quest/sproots/dps/",
+	"title": "DPS",
+	"tags": [],
+	"description": "",
+	"content": "Mechanics are more important than your DPS If you choose to ignore a mechanic, there\u0026rsquo;s a good chance you will die. Dead DPS do no DPS.\n Don\u0026rsquo;t stand in front of the boss It\u0026rsquo;s a good way to get cleaved or tankbustered and die. Dead DPS do no DPS.\n If you\u0026rsquo;re ranged, stay near healer  Healers have heals that are mostly centered around themselves (there are exceptions), but this helps them to be able to do top ups quickly from raidwides.\n If you decide to stay as far from everyone as possible, do not be surprised if a healer lets you die. Dead DPS do not DPS.\n Know your interupts! This cannot be stressed enough. Know what types of interrupts you have!\n Surecast and Arm\u0026rsquo;s Length are your friend! Surecast (Casters) and Arm\u0026rsquo;s Length (Physical DPS) can be used during some mechanics to allow you to stay in place and finish a cast, or combo!\n "
 },
 {
 	"uri": "https://www.spicychicken.quest/guides/group/trial/",
@@ -107,9 +107,9 @@
 {
 	"uri": "https://www.spicychicken.quest/guides/group/dungeon/arr/copperbell-mines/",
 	"title": "17: Copperbell Mines",
-	"tags": ["dungeon"],
+	"tags": ["dungeon", "arr"],
 	"description": "",
-	"content": "Link to detailed guide for dungeon\n  Map of Dungeon   map\n  Special Loot Cards, Minions, Mounts, Other\n Trash part 1 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 1  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash part 2 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 2  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash Part 3 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 3  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Current community method of attack\n "
+	"content": "Link to detailed guide for dungeon\n  Map of Dungeon   map\n  Special Loot Nothing of note\n Trash part 1 Make sure you pick up the tiny key dropped by mobs!\n The first 2 spriggans in the dungeon leash back to the beginning if you do not kill them fast and move too far ahead.\n Kottos Kill adds. Kill adds. Kill adds\u0026hellip; yawn\u0026hellip; kill adds\u0026hellip; Oo boss!\n Trash part 2 Certain mobs have a \u0026ldquo;leash\u0026rdquo;. So try and kill groups in rooms instead of trying to group them all up.\n Ichorous Ire DPS and Healers dance between activating Improved Blasting Device! Let the tank hold the boss and it\u0026rsquo;s revealed counterparts.\n Trash Part 3 For a new healers and tanks, mass pulling can be tricky!\n It makes no difference which path you take!\n Gyges the Great Current community method is to just stay on the boss and ignore adds. Enjoy the Limit Break!\n "
 },
 {
 	"uri": "https://www.spicychicken.quest/guides/group/dungeon/heavensward/",
@@ -133,6 +133,13 @@
 	"content": "Stormblood Trials Lorem Ipsum.\n"
 },
 {
+	"uri": "https://www.spicychicken.quest/sproots/healers/",
+	"title": "Healers",
+	"tags": [],
+	"description": "",
+	"content": "Your job is more than healing Be sure you DPS! For all encounters the developers include healer DPS for mechanics, enrages, etc. Get used to it now.\n You do not have to keep people at 100% health As long as they enough health to survive the tankbuster or raidwide, they are fine! There is passive healing in combat and massive passive healing out of combat!\n Plan for your group run Check your party\u0026rsquo;s gear, you\u0026rsquo;ll want to know if they are undergeared for the level dungeon/trial/raid you are doing.\n Know what and when to Esuna You can tell something is removable by Esuna by the debuff icon. Small blue line over the debuff means you can cleanse it.\n    Removable by Esuna Not Removable by Esuna          It\u0026rsquo;s not always worth it to Esuna a debuff. You can lose valuable DPS time as Esuna is a cast, not instant, and sometimes the damage done by the debuff is trivial.\n Know who and when to bring someone back to life Following mechanics is more important than picking someone up who died!\n You can bring someone back in the middle of combat.\n Using a Swiftcast Raise, Resurrection, Ascend can bring someone back while you\u0026rsquo;re on the move!\n If the person you pick up starts to do anything and ignores this tip, there is a good chance they will die without you healing them up for a raidwide. Don\u0026rsquo;t feel bad.\n You too can use use Limit Break! Limit Break 3 brings everyone in your party back to life, with no debuff, and resets cooldowns! This has saved more trials, extremes, raids, etc than the writer of this guide can count!\n Managing your MP Use Lucid Dreaming when your MP gets to about 70% and then keep Lucid Dreaming on cooldown!\n Rescue is both a blessing and a curse Well intentioned healers try to move people or save them using Rescue, however some players get really upset if you use it on them.\n Rescue only moves the target to be right in front of you, so make sure that space is outside of a mechanic if you\u0026rsquo;re trying to save someone.\n Surecast will save your life You should have Surecast on your toolbar. There are a lot of mechanics that move you around the arena that can be completely ignored, or mitigated, by using it!\n You have a stun! Your Repose is actually a stun!\n "
+},
+{
 	"uri": "https://www.spicychicken.quest/guides/group/raid/",
 	"title": "Raid",
 	"tags": [],
@@ -144,7 +151,7 @@
 	"title": "Group Content",
 	"tags": [],
 	"description": "",
-	"content": "Mechanics To Remember Dungeons / Raids / Trials Oh My! There are a lot of different 4 and 8 man instances that have mechanics. This section is all about helping remember what happens in each.\n Visual Guide to Mechanics   Dungeon   Trial   Raid   "
+	"content": "Mechanics To Remember Dungeons / Raids / Trials Oh My! There are a lot of different 4 and 8 man instances that have mechanics. This section is all about helping remember what happens in each.\n Dungeon   Trial   Raid   "
 },
 {
 	"uri": "https://www.spicychicken.quest/tirzah/reputation/",
@@ -152,13 +159,6 @@
 	"tags": [],
 	"description": "",
 	"content": "They Like Me! Reputation   ARR    Amalj\u0026rsquo;aa: Neutral Sylphs: Neutral Kobolds: Recognized Sahagin: Friendly Ixal: Sworn      Heavensward    Vanu Vanu: Honored Vath: Bloodsworn Moogles: Sworn      Stormblood [COMPLETE]    Vanu Vanu: Allied Vath: Allied Moogles: Allied      Shadowbringers [COMPLETE]    Dwarves: Bloodsworn Qitari: Bloodsworn Pixies: Bloodsworn    "
-},
-{
-	"uri": "https://www.spicychicken.quest/guides/group/dungeon/arr/halatali/",
-	"title": "20: Halatali",
-	"tags": ["dungeon"],
-	"description": "",
-	"content": "Link to detailed guide for dungeon\n  Map of Dungeon   map\n  Special Loot Cards, Minions, Mounts, Other\n Trash part 1 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 1  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash part 2 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 2  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash Part 3 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 3  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Current community method of attack\n "
 },
 {
 	"uri": "https://www.spicychicken.quest/guides/group/raid/shadowbringers/",
@@ -182,6 +182,13 @@
 	"content": "Stormblood Dungeons Lorem Ipsum.\n"
 },
 {
+	"uri": "https://www.spicychicken.quest/sproots/tanks/",
+	"title": "Tanks",
+	"tags": [],
+	"description": "",
+	"content": "Put on Emnity (threat) Stance Simply having this turned on, you hold threat as long as you hit the targets!\n    DRK: Grit WAR: Defiance GNB: Royal Guard PLD: Iron Will            Just because the boss is not physically looking at you does NOT mean you have lost threat There are actions that a boss, or mob will perform that have them physicall turn away from you. This does not mean you have lost threat so you do not need use Provoke (see next statement). Instead, look at the two locations listed below to verify if you still have threat or not.\n    Target of Target Enemy List         The boss focused on Tirzah to start, then Maiq Provoked and the target of target changed Red means you are top of threat; Orange means you\u0026rsquo;re near the top of the threat list; Yellow means you halfway up the threat list; Green means you are very low on the threat list    As a tank, you want those boxes to be red! Red is your favourite color in the enemy list.\n Provoke is not used on cooldown All provoke does is set your emnity to be equal to the highest level eminity currently on that target and then gives you a tiny bit extra emnity on top. Even if you are the one on top! Save it for an emergancy.\n Minimize Movement Melee jobs have positionals and you make them lose damage if you move the boss around a lot.\n Pace your use of mitigations, do not use them all at once You will want to use your big mitigations for tankbusters!\n  ROLE BASED: Rampart, Reprisal, Arm\u0026rsquo;s Length PLD: Sheltron, Sentinal, and others WAR: Thill of Battle, Vengeance, Raw Intuition, Equilibrium, and others GNB: Camouflage, Nebula, Aurora (good for pulling with heal emnity), and others DRK: Shadow Wall, Dark Mind, Dark Missionary, and others  Your Immunities should not be used on cooldown, save for dire purposes (large aoe pack pulls as an example)  PLD: Hallowed Ground WAR: Holmgang GNB: Superbolide DRK: Living Dead  "
+},
+{
 	"uri": "https://www.spicychicken.quest/guides/crafting/",
 	"title": "Crafting",
 	"tags": [],
@@ -196,11 +203,18 @@
 	"content": "Gotta Catch Em All Collectables From mounts, to minions, to cards, these are still needed.\n"
 },
 {
-	"uri": "https://www.spicychicken.quest/guides/group/dungeon/arr/thousand-maws-toto-rak/",
-	"title": "24: Thousand Maws Toto Rak",
-	"tags": ["dungeon"],
+	"uri": "https://www.spicychicken.quest/glossary/",
+	"title": "Glossary",
+	"tags": [],
 	"description": "",
-	"content": "Link to detailed guide for dungeon\n  Map of Dungeon   map\n  Special Loot Cards, Minions, Mounts, Other\n Trash part 1 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 1  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash part 2 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 2  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash Part 3 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 3  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Current community method of attack\n "
+	"content": "All games have their own lingo Glossary This is just a glossary of terms that are used throughough the guide and in FFXIV.\n  GCD/oGCD   Tankbuster   "
+},
+{
+	"uri": "https://www.spicychicken.quest/sproots/mechanics/",
+	"title": "Visual Guide to Mechanics",
+	"tags": [],
+	"description": "",
+	"content": " Throughout your gameplay, you will run across various mechanics that repeat in dungeons, trials, and raids. This is an attempt to help you understand what to do if you see them\n A lot of these mechanics repeat in dungeons, trials, and raids, are are named after some of the first times they show up. Example, Exo Flares was first shown in a fight and was called Exo Flare. So even if a boss uses a different name, the community just recognizes the attack does the exact same thing and will call it that!\n    Picture of Mechanic Mechanic Name What does it mean?      Stack Marker This is a huge damage attack that needs to be shared among as many people as possible. Thus\u0026hellip; stack on whoever has the marker    Line Stack Marker This preceeds a line attack from boss through to end of arena. Stand in the line to spread the damage amongst the group!    Action Time Maneuver When you see this show up, prepare to spam your buttons (keyboard / mouse / joystick)    Action Time Maneuver Player Action Spam your buttons (keyboard / mouse / joystick)! We\u0026rsquo;ve all been there! Make sure you do not end up typing into chat when doing this action time event. It will kill you in many cases if you do!    Proximity Marker The closer you are to the marker, the more damage you take. Do not understimate the damage being a medium distance away!    Flare This is a combination of a single target and proximity damage attack. If you have this marker on your heard get away from the group. If you see this marker on someone get as far away from them as possible    Floor Patterns When you see floor markers going in one direction, it means your character will be flung in that direction against your will (Arm\u0026rsquo;s Length or Surecast may help, but it is not always garunteed!)    Gaze No matter the boss, pillar, or mob, if you see a big red eyeball on it, TURN AROUND and put your character\u0026rsquo;s back to the eye. You will end up either confused running around hitting people, get a debuff that will kill you, or other horrible things.    Tower Markers Tower markers need a person to stand in it in order to prevent massive party or raid wide damage.    Exo Flares Circles with arrows point in the direction that it will go. These usually continue in a line and do a heavy damage attack if you\u0026rsquo;re caught by them.    Polarity Same polarity repels targets away from each other. Opposite pulls them in towards each other. More damage the closer you are to start    TETHERS are a mechanic that will be targeted on you, but what that mechanic is tends to be fight specific.\n    Examples of Tethers       Proximity Tether: Move away till the tether becomes purple. If it remains red with arrows, you will take a massive spike of damage and possibly die. Prey Tether: This usually is a tether that can be passed on to someone else. Depending on the fight you may need to pass to a DPS, or a Tank. You call it\u0026rsquo;s a prey tether as you will see the debuff for prey on you. Dragable Tether: This tethers something to you. What you do depends on the boss. Some Examples: You may need to drag what is attached to you through the boss or you may need to run into the orb attached to someone else\u0026rsquo;s tether to prevent them from taking big damage.         It is worth noting, that there are very specific fights where the goal of chains is to hug your partner. Those exceptions are handled in the guide unique to that dungeon, trial, or raid.\n    Chains      If you find yourself chained to someone, move away from them as you will both take continuous damage until that chain breaks. If you start FAR away from the person you become chained to, you have to move EVEN further away from that person to break it.       In the above, we\u0026rsquo;re close taking damage In the above, we\u0026rsquo;re moving away from each other to break the chains    "
 },
 {
 	"uri": "https://www.spicychicken.quest/guides/group/raid/endwalker/",
@@ -280,25 +294,11 @@
 	"content": "Best Friends Trust Current dungeon Dohn Mheg\n  Alphinaud: 74 Alisaie: 74 Thancred: 75 Urianger: 74 Y\u0026rsquo;shtola: 74 Ryne: 74 G\u0026rsquo;raha Tia: 80  Squardron Website for modifying Squadron: http://ffxivsquadron.com/ {{ /notice}}\n "
 },
 {
-	"uri": "https://www.spicychicken.quest/guides/group/dungeon/arr/haukke-manor/",
-	"title": "28: Haukke Manor",
-	"tags": ["dungeon"],
-	"description": "",
-	"content": "Link to detailed guide for dungeon\n  Map of Dungeon   map\n  Special Loot Cards, Minions, Mounts, Other\n Trash part 1 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 1  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash part 2 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 2  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash Part 3 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 3  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Current community method of attack\n "
-},
-{
 	"uri": "https://www.spicychicken.quest/guides/group/dungeon/endwalker/",
 	"title": "Endwalker",
 	"tags": [],
 	"description": "",
 	"content": "Endwalker Dungeons Lorem Ipsum.\n"
-},
-{
-	"uri": "https://www.spicychicken.quest/guides/group/dungeon/arr/brayfloxs-longstop/",
-	"title": "32: Brayfloxs Longstop",
-	"tags": ["dungeon"],
-	"description": "",
-	"content": "Link to detailed guide for dungeon\n  Map of Dungeon   map\n  Special Loot Cards, Minions, Mounts, Other\n Trash part 1 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 1  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash part 2 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 2  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash Part 3 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 3  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Current community method of attack\n "
 },
 {
 	"uri": "https://www.spicychicken.quest/tirzah/gathering/",
@@ -308,25 +308,11 @@
 	"content": "Swish swish Gathering Level  Botanist: 80 Mining: 80 Feee-ishing: 80  "
 },
 {
-	"uri": "https://www.spicychicken.quest/guides/group/dungeon/arr/sunken-temple-qarn/",
-	"title": "35: Sunken Temple Qarn",
-	"tags": ["dungeon"],
-	"description": "",
-	"content": "Link to detailed guide for dungeon\n  Map of Dungeon   map\n  Special Loot Cards, Minions, Mounts, Other\n Trash part 1 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 1  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash part 2 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 2  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash Part 3 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 3  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Current community method of attack\n "
-},
-{
 	"uri": "https://www.spicychicken.quest/tirzah/fates/",
 	"title": "Fates",
 	"tags": [],
 	"description": "",
 	"content": "Pink Spawns Fates Sometimes there are things worth grinding for. Like baby Amaros\n Lakeland: 34/60 Amh Araeng: 1/6 Il Mheg: 12/60 Khlusia: 5/6 The Rak\u0026rsquo;tika \u0026ldquo;Laa Hee\u0026rdquo; Greatwood: 5/60 The Tempest: 2/60  "
-},
-{
-	"uri": "https://www.spicychicken.quest/guides/group/dungeon/arr/cutters-cry/",
-	"title": "38: Cutters Cry",
-	"tags": ["dungeon"],
-	"description": "",
-	"content": "Link to detailed guide for dungeon\n  Map of Dungeon   map\n  Special Loot Cards, Minions, Mounts, Other\n Trash part 1 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 1  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash part 2 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 2  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash Part 3 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 3  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Current community method of attack\n "
 },
 {
 	"uri": "https://www.spicychicken.quest/tirzah/retainers/",
@@ -340,14 +326,7 @@
 	"title": "FFXIV Tips, Tricks, &amp; More",
 	"tags": [],
 	"description": "",
-	"content": "Welcome to SpicyChicken Quest The intent of this website is to offer quick look guides for new players. It is still under development as this is a living, breathing, set of guides. Check back or get involved!\n \u0026ldquo;This site is literally just a goofball concept to track thoughts, notes, and tasks in FFXIV. That is all. Nothing more. Okay, well, it\u0026rsquo;s also a place for some quick guides and stuff\u0026hellip;\u0026rdquo; ♥♥ Tirzah\n "
-},
-{
-	"uri": "https://www.spicychicken.quest/guides/group/dungeon/arr/stone-vigil/",
-	"title": "41: Stone Vigil",
-	"tags": ["dungeon"],
-	"description": "",
-	"content": "Link to detailed guide for dungeon\n  Map of Dungeon   map\n  Special Loot Cards, Minions, Mounts, Other\n Trash part 1 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 1  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash part 2 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 2  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash Part 3 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 3  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Current community method of attack\n "
+	"content": "Welcome to SpicyChicken Quest The intent of this website is to offer quick look guides for new players. It is still under development as this is a living, breathing set of guides. Check back or get involved!\n \u0026ldquo;This site is literally just a goofball concept to track thoughts, notes, and tasks in FFXIV. That is all. Nothing more. Okay, well, it\u0026rsquo;s also a place for some quick guides and stuff\u0026hellip;\u0026rdquo; ♥♥ Tirzah\n "
 },
 {
 	"uri": "https://www.spicychicken.quest/tirzah/farm/",
@@ -357,18 +336,11 @@
 	"content": "The Farm Bozjan Southern Front  DR Savage  Zadnor Valor  Fortitude: 3 Valor: 6 Succor: 2  Field Notes needed  Number 12: For Absent Friends Number 38: Atrocities Number 44: Dalraida  Link  Lost Fragment Doc  Extra notes  Star Farm: Lost Death (1 use throwaway) + Sleep Sprite: Stormy weather + Lost Reflect Lost reflect/spirit of the guardian: Support - Sprites  Maps   BSF Star Locations       Zadnor Locations     Lysias  Licorice Kill Star Mobs Metal Fox chaos Trampled under hoof Where strode the behemoth Bojan Rider Gravekeeper  "
 },
 {
-	"uri": "https://www.spicychicken.quest/guides/group/dungeon/arr/dzemael-darkhold/",
-	"title": "44: Dzemael Darkhold",
-	"tags": ["dungeon"],
+	"uri": "https://www.spicychicken.quest/tags/arr/",
+	"title": "arr",
+	"tags": [],
 	"description": "",
-	"content": "Link to detailed guide for dungeon\n  Map of Dungeon   map\n  Special Loot Cards, Minions, Mounts, Other\n Trash part 1 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 1  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash part 2 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 2  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash Part 3 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 3  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Current community method of attack\n "
-},
-{
-	"uri": "https://www.spicychicken.quest/guides/group/dungeon/arr/aurum-vale/",
-	"title": "47: Aurum Vale",
-	"tags": ["dungeon"],
-	"description": "",
-	"content": "Link to detailed guide for dungeon\n  Map of Dungeon   map\n  Special Loot Cards, Minions, Mounts, Other\n Trash part 1 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 1  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash part 2 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 2  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash Part 3 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 3  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Current community method of attack\n "
+	"content": ""
 },
 {
 	"uri": "https://www.spicychicken.quest/tags/dungeon/",
@@ -385,39 +357,18 @@
 	"content": ""
 },
 {
-	"uri": "https://www.spicychicken.quest/tags/arr/",
-	"title": "arr",
+	"uri": "https://www.spicychicken.quest/glossary/gcd-ogcd/",
+	"title": "GCD/oGCD",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": "Global Cooldown (GCD) Share a cast timer with each other. Have the tags of \u0026ldquo;Weaponskill\u0026rdquo; or \u0026ldquo;Spell\u0026rdquo;.\nOff Global Cooldown (oGCD) Have a cast of \u0026ldquo;instant\u0026rdquo; and can be woven between GCDs.\n"
 },
 {
-	"uri": "https://www.spicychicken.quest/guides/sproots/everyone/",
-	"title": "Everyone",
+	"uri": "https://www.spicychicken.quest/glossary/tankbuster/",
+	"title": "Tankbuster",
 	"tags": [],
 	"description": "",
-	"content": "Limit Break is your friend! You can find the action Limit Break in your \u0026ldquo;Actions \u0026amp; Traits\u0026rdquo; window, under \u0026ldquo;General\u0026rdquo;.\n Generally speaking, Limit Break is saved for the last boss for the DPS to use when the boss hits 10% health. This changes as you get further into trials / dungeons / etc. There are unique trials that require the use of LB3 by specific roles in certain circumstances.\n Death Happens If you die in battle\u0026hellip;\n  \u0026hellip;and are raised/revived/etc during combat: DO NOT: CAST, PERFORM AN ACTION, PERFORM A WEAPONSKILL. You have a few seconds of invulnerability. Give the healer a chance to heal you back up. \u0026hellip;you will get a weakness debuff. This means your main stat (STR, DEX, INT, MIND) is reduced by 25%. If you die again while under the weakness effect, you get the Brink of Death debuff which reduces those stats down by 50%.  Know your interrupts! You can find most interrupts in your \u0026ldquo;Actions \u0026amp; Traits\u0026rdquo; window under the section \u0026ldquo;Role\u0026rdquo;\n You have to test to find out which stuns / interrupts work. General rule of thumb, is the left castbar can be stunned or interrupted, and the right may be stunable.\n There are two types of cast bars, as seen below.    Interruptable This may be stunnable          The different types of interrupts    Interrupt Icon Name Role that uses it What it does      Leg Sweep NIN, DRG, MNK, SAM Stuns    Head Graze BRD, MCH, DNC Spell Interrupt    Low Blow DRK, PLD, WAR, GNB Stuns    Interject DRK, PLD, WAR, GNB Spell Interrupt    Shield Bash PLD Stun: It requires planning as it is on the GCD    Repose WHM, SCH, AST Sleep (counts as a stun): but requires cast time or Swiftcast; rarely used in dungeons, trials, etc    Sleep BLM Sleep (counts as a stun): requires cast time or Swiftcast; rarely used in dungeons, trials, etc    Know your puddles! These will heal you and/or reduce damage taken!\n    White Mage Scholar Astrologian          Heals those in it Heals / mitigates damage Heals / Damage    These do damage to enemies when they stand in it!\n    Ninja Dark Knight Summoner          Does damage to targets in it Does damage to targets in it Does damage to targets in it    "
-},
-{
-	"uri": "https://www.spicychicken.quest/guides/sproots/healers/",
-	"title": "Healers",
-	"tags": [],
-	"description": "",
-	"content": "Healers  Check your party\u0026rsquo;s gear, you\u0026rsquo;ll want to know if they are undergeared for the level dungeon/trial/raid you are doing. Be sure you DPS, future content requires healers to DPS and heal. Get used to it now.  "
-},
-{
-	"uri": "https://www.spicychicken.quest/guides/sproots/dps/",
-	"title": "Dps",
-	"tags": [],
-	"description": "",
-	"content": "DPS Don\u0026rsquo;t stand in front of the boss It\u0026rsquo;s a good way to get cleaved or tankbusted and die. Dead DPS do no dps.\nIf you\u0026rsquo;re ranged, stay near healer Healers have heals that are mostly centered around themselves (there are exceptions), but this helps them to be able to do top ups quickly from raidwides. If you decide to stay as far from everyone as possible, do not be surprised if a healer lets you die*\n "
-},
-{
-	"uri": "https://www.spicychicken.quest/guides/sproots/tanks/",
-	"title": "Tanks",
-	"tags": [],
-	"description": "",
-	"content": "Tanks Put on Emnity (threat) Stance Simply having this turned on, you hold threat as long as you hit the targets!\n    DRK: Grit WAR: Defiance GNB: Royal Guard PLD: Iron Will            Just because the boss is not physically looking at you does NOT mean you have lost threat There are actions that a boss, or mob will perform that have them physicall turn away from you. This does not mean you have lost threat so you do not need use Provoke (see next statement). Instead, look at the two locations listed below to verify if you still have threat or not.\n    Target of Target Enemy List         The boss is focued on Tirzah to start, the Maiq took over as her threat and the target of target changed Red means you are top of threat; Orange means you\u0026rsquo;re near the top of the threat list; Yellow means you halfway up the threat list; Green means you are very low on the threat list    As a tank, you want those boxes to be red! Red is your favourite color in the enemy list.\n Provoke is not used on cooldown All provoke does is set your emnity to be equal to the highest level eminity currently on that target and then gives you a tiny bit extra emnity on top. Even if you are the one on top! Save it for an emergancy.\n Minimize Movement Melee jobs have positionals and you make them lose damage by moving a lot.\n Pace your use of mitigations, do not use them all at once  ROLE BASED: Rampart, Reprisal, Arm\u0026rsquo;s Length PLD: Sheltron, Sentinal, and others WAR: Thill of Battle, Vengeance, Raw Intuition, Equilibrium, and others GNB: Camouflage, Nebula, Aurora (good for pulling with heal emnity), and others DRK: Shadow Wall, Dark Mind, Dark Missionary, and others  Your Immunities should not be used on cooldown, save for dire purposes (large aoe pack pulls as an example)  PLD: Hallowed Ground WAR: Holmgang GNB: Superbolide DRK: Living Dead  "
+	"content": "Tankbuster An attack, or quick series of attacks, that does immense damage. Must be mitigated through!\nSome tankbusters are shared, either between the Main and Off Tank, or the whole party!\n "
 },
 {
 	"uri": "https://www.spicychicken.quest/feedback/",
@@ -431,14 +382,14 @@
 	"title": "Contributors",
 	"tags": [],
 	"description": "",
-	"content": "A massive thank you to everyone who has contributed from screenshots, to tips, to ideas, to guides. I love you.\n Spicy Chicken: \u0026hellip;the one who inspired this entire concept. DBFig: For suggestions on what he wished he knew when starting. Lysias Grant: Cause everyone needs one of him in their life. Spicy Chicken: \u0026hellip;the one who inspired this entire concept. Maiq \u0026ldquo;TheLiar\u0026rdquo; Grant: Thoughts, tips, and cause everyone needs one in thier life. Ray Vermillion: GPose god and Ultimate Catboyo Spicy Chicken: \u0026hellip;the one who inspired this entire concept. Aza\u0026rsquo;ela Light\u0026rsquo;nea: Eager, helpful, and awesome. Spicy Chicken: \u0026hellip;the one who inspired this entire concept. Ereizi Dazkar: Mad imaging skills  "
+	"content": "A massive thank you to everyone who has contributed from screenshots, to tips, to ideas, to guides. I love you.\n Spicy Chicken: \u0026hellip;the one who inspired this entire concept. DBFig: For suggestions on what he wished he knew when starting. Lysias Grant: Cause everyone needs one of him in their life. Spicy Chicken: \u0026hellip;the one who inspired this entire concept. Maiq \u0026ldquo;TheLiar\u0026rdquo; Grant: Thoughts, tips, and cause everyone needs one in thier life. Ray Vermillion: GPose god and Ultimate Catboyo Spicy Chicken: \u0026hellip;the one who inspired this entire concept. Aza\u0026rsquo;ela Light\u0026rsquo;nea: Eager, helpful, and awesome. Spicy Chicken: \u0026hellip;the one who inspired this entire concept. Ereizi Dazkar: Mad imaging skills. Forerunner Highwind: Ensuring countdowns help Blackmages every run.  "
 },
 {
 	"uri": "https://www.spicychicken.quest/changelog/",
 	"title": "Changelog",
 	"tags": [],
 	"description": "",
-	"content": "   v0.6 Press F for PC    Content  Modified how things are structured Group content is getting a rework and templatedededed Sproot tips are moved into roles now to make things a little easier to view Hid things, revealed things Added a glossary cause that may be important. Maybe.   Contributors  Must track all the amazing people        v0.5.1 Coffee Biscuit    Visuals  Dark Mode. It is here.   Content  Added changelog Added new sections: This is not the final form.      "
+	"content": "   v0.6. Sproots Love    Content  Moved Roles to be more in your face Modified glossary        v0.6 Press F for PC    Content  Modified how things are structured Group content is getting a rework and templatedededed Sproot tips are moved into roles now to make things a little easier to view Hid things, revealed things Added a glossary cause that may be important. Maybe.   Contributors  Must track all the amazing people        v0.5.1 Coffee Biscuit    Visuals  Dark Mode. It is here.   Content  Added changelog Added new sections: This is not the final form.      "
 },
 {
 	"uri": "https://www.spicychicken.quest/tirzah/css-test/",
