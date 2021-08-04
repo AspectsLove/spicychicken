@@ -8,16 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Jul 2021 22:06:47 +0100</lastBuildDate><atom:link href="https://www.spicychicken.quest/sproots/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Visual Guide to Mechanics</title>
-      <link>https://www.spicychicken.quest/sproots/mechanics/</link>
-      <pubDate>Sun, 25 Jul 2021 17:12:38 +0100</pubDate>
-      
-      <guid>https://www.spicychicken.quest/sproots/mechanics/</guid>
-      <description>Throughout your gameplay, you will run across various mechanics that repeat in dungeons, trials, and raids. This is an attempt to help you understand what to do if you see them
-    Stack Marker Action Time Maneuver Action Time Maneuver Player Action     This is a huge damage attack that needs to be shared among as many people as possible. Thus&amp;hellip; stack on whoever has the marker When you see the image above, prepare to spam your buttons (keyboard / mouse / joystick) Spam your buttons (keyboard / mouse / joystick)!</description>
-    </item>
-    
-    <item>
       <title>Everyone</title>
       <link>https://www.spicychicken.quest/sproots/everyone/</link>
       <pubDate>Tue, 20 Jul 2021 22:11:34 +0100</pubDate>
@@ -25,17 +15,6 @@
       <guid>https://www.spicychicken.quest/sproots/everyone/</guid>
       <description>Limit Break is your friend! You can find the action Limit Break in your &amp;ldquo;Actions &amp;amp; Traits&amp;rdquo; window, under &amp;ldquo;General&amp;rdquo;.
  Generally speaking, Limit Break is saved for the last boss for the DPS to use when the boss hits 10% health. This changes as you get further into trials / dungeons / etc. There are unique trials that require the use of LB3 by specific roles in certain circumstances.</description>
-    </item>
-    
-    <item>
-      <title>Healers</title>
-      <link>https://www.spicychicken.quest/sproots/healers/</link>
-      <pubDate>Tue, 20 Jul 2021 22:11:30 +0100</pubDate>
-      
-      <guid>https://www.spicychicken.quest/sproots/healers/</guid>
-      <description>Your job is more than healing Be sure you DPS! For all encounters the developers include healer DPS for mechanics, enrages, etc. Get used to it now.
- You do not have to keep people at 100% health As long as they enough health to survive the tankbuster or raidwide, they are fine! There is passive healing in combat and massive passive healing out of combat!
- Plan for your group run Check your party&amp;rsquo;s gear, you&amp;rsquo;ll want to know if they are undergeared for the level dungeon/trial/raid you are doing.</description>
     </item>
     
     <item>
@@ -50,6 +29,17 @@
     </item>
     
     <item>
+      <title>Healers</title>
+      <link>https://www.spicychicken.quest/sproots/healers/</link>
+      <pubDate>Tue, 20 Jul 2021 22:11:30 +0100</pubDate>
+      
+      <guid>https://www.spicychicken.quest/sproots/healers/</guid>
+      <description>Your job is more than healing Be sure you DPS! For all encounters the developers include healer DPS for mechanics, enrages, etc. Get used to it now.
+ You do not have to keep people at 100% health As long as they enough health to survive the tankbuster or raidwide, they are fine! There is passive healing in combat and massive passive healing out of combat!
+ Plan for your group run Check your party&amp;rsquo;s gear, you&amp;rsquo;ll want to know if they are undergeared for the level dungeon/trial/raid you are doing.</description>
+    </item>
+    
+    <item>
       <title>Tanks</title>
       <link>https://www.spicychicken.quest/sproots/tanks/</link>
       <pubDate>Tue, 20 Jul 2021 22:11:19 +0100</pubDate>
@@ -57,6 +47,16 @@
       <guid>https://www.spicychicken.quest/sproots/tanks/</guid>
       <description>Put on Emnity (threat) Stance Simply having this turned on, you hold threat as long as you hit the targets!
     DRK: Grit WAR: Defiance GNB: Royal Guard PLD: Iron Will            Just because the boss is not physically looking at you does NOT mean you have lost threat There are actions that a boss, or mob will perform that have them physicall turn away from you.</description>
+    </item>
+    
+    <item>
+      <title>Visual Guide to Mechanics</title>
+      <link>https://www.spicychicken.quest/sproots/mechanics/</link>
+      <pubDate>Sun, 25 Jul 2021 17:12:38 +0100</pubDate>
+      
+      <guid>https://www.spicychicken.quest/sproots/mechanics/</guid>
+      <description>Throughout your gameplay, you will run across various mechanics that repeat in dungeons, trials, and raids. This is an attempt to help you understand what to do if you see them
+ A lot of these mechanics repeat in dungeons, trials, and raids, are are named after some of the first times they show up. Example, Exo Flares was first shown in a fight and was called Exo Flare. So even if a boss uses a different name, the community just recognizes the attack does the exact same thing and will call it that!</description>
     </item>
     
   </channel>

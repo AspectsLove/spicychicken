@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.spicychicken.quest/sproots/mechanics/</loc>
-    <lastmod>2021-07-25T17:12:38+01:00</lastmod>
-  </url><url>
     <loc>https://www.spicychicken.quest/guides/group/dungeon/arr/sastasha/</loc>
     <lastmod>2021-07-20T23:26:52+01:00</lastmod>
   </url><url>
@@ -13,6 +10,9 @@
   </url><url>
     <loc>https://www.spicychicken.quest/guides/group/trial/arr/</loc>
     <lastmod>2021-07-20T22:57:58+01:00</lastmod>
+  </url><url>
+    <loc>https://www.spicychicken.quest/sproots/everyone/</loc>
+    <lastmod>2021-07-20T22:11:34+01:00</lastmod>
   </url><url>
     <loc>https://www.spicychicken.quest/sproots/</loc>
     <lastmod>2021-07-20T22:06:47+01:00</lastmod>
@@ -38,6 +38,9 @@
     <loc>https://www.spicychicken.quest/guides/group/trial/heavensward/</loc>
     <lastmod>2021-07-20T22:57:58+01:00</lastmod>
   </url><url>
+    <loc>https://www.spicychicken.quest/sproots/dps/</loc>
+    <lastmod>2021-07-20T22:11:23+01:00</lastmod>
+  </url><url>
     <loc>https://www.spicychicken.quest/guides/group/trial/</loc>
     <lastmod>2021-06-13T04:03:11+01:00</lastmod>
   </url><url>
@@ -55,6 +58,9 @@
   </url><url>
     <loc>https://www.spicychicken.quest/guides/group/trial/stormblood/</loc>
     <lastmod>2021-07-20T22:57:58+01:00</lastmod>
+  </url><url>
+    <loc>https://www.spicychicken.quest/sproots/healers/</loc>
+    <lastmod>2021-07-20T22:11:30+01:00</lastmod>
   </url><url>
     <loc>https://www.spicychicken.quest/guides/group/raid/</loc>
     <lastmod>2021-06-13T04:03:19+01:00</lastmod>
@@ -74,6 +80,9 @@
     <loc>https://www.spicychicken.quest/guides/group/dungeon/stormblood/</loc>
     <lastmod>2021-07-20T22:57:58+01:00</lastmod>
   </url><url>
+    <loc>https://www.spicychicken.quest/sproots/tanks/</loc>
+    <lastmod>2021-07-20T22:11:19+01:00</lastmod>
+  </url><url>
     <loc>https://www.spicychicken.quest/guides/crafting/</loc>
     <lastmod>2021-06-05T04:40:50+01:00</lastmod>
   </url><url>
@@ -82,6 +91,9 @@
   </url><url>
     <loc>https://www.spicychicken.quest/glossary/</loc>
     <lastmod>2021-07-27T01:14:24+01:00</lastmod>
+  </url><url>
+    <loc>https://www.spicychicken.quest/sproots/mechanics/</loc>
+    <lastmod>2021-07-25T17:12:38+01:00</lastmod>
   </url><url>
     <loc>https://www.spicychicken.quest/guides/group/raid/endwalker/</loc>
     <lastmod>2021-07-20T22:57:58+01:00</lastmod>
@@ -143,23 +155,11 @@
     <loc>https://www.spicychicken.quest/tags/</loc>
     <lastmod>2021-07-23T03:48:41+01:00</lastmod>
   </url><url>
-    <loc>https://www.spicychicken.quest/sproots/everyone/</loc>
-    <lastmod>2021-07-20T22:11:34+01:00</lastmod>
-  </url><url>
-    <loc>https://www.spicychicken.quest/sproots/healers/</loc>
-    <lastmod>2021-07-20T22:11:30+01:00</lastmod>
-  </url><url>
-    <loc>https://www.spicychicken.quest/sproots/dps/</loc>
-    <lastmod>2021-07-20T22:11:23+01:00</lastmod>
-  </url><url>
     <loc>https://www.spicychicken.quest/glossary/gcd-ogcd/</loc>
     <lastmod>2021-07-20T22:11:23+01:00</lastmod>
   </url><url>
     <loc>https://www.spicychicken.quest/glossary/tankbuster/</loc>
     <lastmod>2021-07-20T22:11:23+01:00</lastmod>
-  </url><url>
-    <loc>https://www.spicychicken.quest/sproots/tanks/</loc>
-    <lastmod>2021-07-20T22:11:19+01:00</lastmod>
   </url><url>
     <loc>https://www.spicychicken.quest/feedback/</loc>
     <lastmod>2021-07-15T19:54:47+01:00</lastmod>

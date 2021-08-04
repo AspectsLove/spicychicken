@@ -8,16 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Jun 2021 20:50:45 +0100</lastBuildDate><atom:link href="https://www.spicychicken.quest/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Visual Guide to Mechanics</title>
-      <link>https://www.spicychicken.quest/sproots/mechanics/</link>
-      <pubDate>Sun, 25 Jul 2021 17:12:38 +0100</pubDate>
-      
-      <guid>https://www.spicychicken.quest/sproots/mechanics/</guid>
-      <description>Throughout your gameplay, you will run across various mechanics that repeat in dungeons, trials, and raids. This is an attempt to help you understand what to do if you see them
-    Stack Marker Action Time Maneuver Action Time Maneuver Player Action     This is a huge damage attack that needs to be shared among as many people as possible. Thus&amp;hellip; stack on whoever has the marker When you see the image above, prepare to spam your buttons (keyboard / mouse / joystick) Spam your buttons (keyboard / mouse / joystick)!</description>
-    </item>
-    
-    <item>
       <title>15: Sastasha</title>
       <link>https://www.spicychicken.quest/guides/group/dungeon/arr/sastasha/</link>
       <pubDate>Tue, 20 Jul 2021 23:26:52 +0100</pubDate>
@@ -27,6 +17,16 @@
   Map of Sastasha     Special Loot Sahagin Triple Triad Card
  Trash part 1 If you do not kill the clams, they will continue to spawn sparks that will annoy your healer, dps, and tank
  If you want to immediately spawn the first boss, be sure to pick up the bloody memo at the start of the instance to know what color coral to click.</description>
+    </item>
+    
+    <item>
+      <title>Everyone</title>
+      <link>https://www.spicychicken.quest/sproots/everyone/</link>
+      <pubDate>Tue, 20 Jul 2021 22:11:34 +0100</pubDate>
+      
+      <guid>https://www.spicychicken.quest/sproots/everyone/</guid>
+      <description>Limit Break is your friend! You can find the action Limit Break in your &amp;ldquo;Actions &amp;amp; Traits&amp;rdquo; window, under &amp;ldquo;General&amp;rdquo;.
+ Generally speaking, Limit Break is saved for the last boss for the DPS to use when the boss hits 10% health. This changes as you get further into trials / dungeons / etc. There are unique trials that require the use of LB3 by specific roles in certain circumstances.</description>
     </item>
     
     <item>
@@ -40,6 +40,17 @@
  Trash x 3 The are ranged casters in this dungeon, so group up the mobs near the ranged to ensure AoE emnity is maintained!
  Group up mobs together to allow the very few jobs that have AoE at this level can do so.
  Void Soulcounter x 3  When a Void Soulcounter shows up, it will cast Enthunder which can be interupted quickly in order to prevent it getting an attack speed buff.</description>
+    </item>
+    
+    <item>
+      <title>DPS</title>
+      <link>https://www.spicychicken.quest/sproots/dps/</link>
+      <pubDate>Tue, 20 Jul 2021 22:11:23 +0100</pubDate>
+      
+      <guid>https://www.spicychicken.quest/sproots/dps/</guid>
+      <description>Mechanics are more important than your DPS If you choose to ignore a mechanic, there&amp;rsquo;s a good chance you will die. Dead DPS do no DPS.
+ Don&amp;rsquo;t stand in front of the boss It&amp;rsquo;s a good way to get cleaved or tankbustered and die. Dead DPS do no DPS.
+ If you&amp;rsquo;re ranged, stay near healer  Healers have heals that are mostly centered around themselves (there are exceptions), but this helps them to be able to do top ups quickly from raidwides.</description>
     </item>
     
     <item>
@@ -57,25 +68,6 @@
     </item>
     
     <item>
-      <title>Helpful Links</title>
-      <link>https://www.spicychicken.quest/guides/links/</link>
-      <pubDate>Sun, 13 Jun 2021 21:28:08 +0100</pubDate>
-      
-      <guid>https://www.spicychicken.quest/guides/links/</guid>
-      <description>Soo much information!  Final Fantasy XIV A Realm Reborn Wiki - FFXIV / FF14 ARR Community Wiki and Guide FFXIV Crafting Optimizer 4.3 FF14 Crafting &amp;amp; Gathering Guide (in-progress) - Google Docs FFXIV Cactpot Solver Palace of the Dead Mechanics - Everything you ever wanted to know : ffxiv Cable Monkey&amp;rsquo;s Hunt Maps XIVDB - Final Fantasy XIV: Stormblood Database FFXIV Housing FFXIV ARR - Triple Triad Information ! Cards, Npcs, Rules, Checklist&amp;hellip; Crafting as a Service | Final Fantasy XIV ARR Crafting Information FFXIV Gardening FFXIV Chocobo Colour Calculator Garland Tools FFXIV Chocobo Racing – A guide for all skill levels Progression and Level Locked Content – Gamer Escape: Gaming News, Reviews, Wikis, and Podcasts FFXIV Hunts Path Finder FFXIV Squadron Sightseeing Log Helper Eorzea Collection XIV Style | Breaking Brick Mountains Glamour Sets Wondrous Tails Solver FFXIV Ocean Fishing Guide: Mount, Minion, and Spectral Current Tips | Digital Trends Ocean Fishing Gear Set Saving  More to come</description>
-    </item>
-    
-    <item>
-      <title>Everyone</title>
-      <link>https://www.spicychicken.quest/sproots/everyone/</link>
-      <pubDate>Tue, 20 Jul 2021 22:11:34 +0100</pubDate>
-      
-      <guid>https://www.spicychicken.quest/sproots/everyone/</guid>
-      <description>Limit Break is your friend! You can find the action Limit Break in your &amp;ldquo;Actions &amp;amp; Traits&amp;rdquo; window, under &amp;ldquo;General&amp;rdquo;.
- Generally speaking, Limit Break is saved for the last boss for the DPS to use when the boss hits 10% health. This changes as you get further into trials / dungeons / etc. There are unique trials that require the use of LB3 by specific roles in certain circumstances.</description>
-    </item>
-    
-    <item>
       <title>Healers</title>
       <link>https://www.spicychicken.quest/sproots/healers/</link>
       <pubDate>Tue, 20 Jul 2021 22:11:30 +0100</pubDate>
@@ -87,14 +79,32 @@
     </item>
     
     <item>
-      <title>DPS</title>
-      <link>https://www.spicychicken.quest/sproots/dps/</link>
-      <pubDate>Tue, 20 Jul 2021 22:11:23 +0100</pubDate>
+      <title>Tanks</title>
+      <link>https://www.spicychicken.quest/sproots/tanks/</link>
+      <pubDate>Tue, 20 Jul 2021 22:11:19 +0100</pubDate>
       
-      <guid>https://www.spicychicken.quest/sproots/dps/</guid>
-      <description>Mechanics are more important than your DPS If you choose to ignore a mechanic, there&amp;rsquo;s a good chance you will die. Dead DPS do no DPS.
- Don&amp;rsquo;t stand in front of the boss It&amp;rsquo;s a good way to get cleaved or tankbustered and die. Dead DPS do no DPS.
- If you&amp;rsquo;re ranged, stay near healer  Healers have heals that are mostly centered around themselves (there are exceptions), but this helps them to be able to do top ups quickly from raidwides.</description>
+      <guid>https://www.spicychicken.quest/sproots/tanks/</guid>
+      <description>Put on Emnity (threat) Stance Simply having this turned on, you hold threat as long as you hit the targets!
+    DRK: Grit WAR: Defiance GNB: Royal Guard PLD: Iron Will            Just because the boss is not physically looking at you does NOT mean you have lost threat There are actions that a boss, or mob will perform that have them physicall turn away from you.</description>
+    </item>
+    
+    <item>
+      <title>Visual Guide to Mechanics</title>
+      <link>https://www.spicychicken.quest/sproots/mechanics/</link>
+      <pubDate>Sun, 25 Jul 2021 17:12:38 +0100</pubDate>
+      
+      <guid>https://www.spicychicken.quest/sproots/mechanics/</guid>
+      <description>Throughout your gameplay, you will run across various mechanics that repeat in dungeons, trials, and raids. This is an attempt to help you understand what to do if you see them
+ A lot of these mechanics repeat in dungeons, trials, and raids, are are named after some of the first times they show up. Example, Exo Flares was first shown in a fight and was called Exo Flare. So even if a boss uses a different name, the community just recognizes the attack does the exact same thing and will call it that!</description>
+    </item>
+    
+    <item>
+      <title>Helpful Links</title>
+      <link>https://www.spicychicken.quest/guides/links/</link>
+      <pubDate>Sun, 13 Jun 2021 21:28:08 +0100</pubDate>
+      
+      <guid>https://www.spicychicken.quest/guides/links/</guid>
+      <description>Soo much information!  Final Fantasy XIV A Realm Reborn Wiki - FFXIV / FF14 ARR Community Wiki and Guide FFXIV Crafting Optimizer 4.3 FF14 Crafting &amp;amp; Gathering Guide (in-progress) - Google Docs FFXIV Cactpot Solver Palace of the Dead Mechanics - Everything you ever wanted to know : ffxiv Cable Monkey&amp;rsquo;s Hunt Maps XIVDB - Final Fantasy XIV: Stormblood Database FFXIV Housing FFXIV ARR - Triple Triad Information ! Cards, Npcs, Rules, Checklist&amp;hellip; Crafting as a Service | Final Fantasy XIV ARR Crafting Information FFXIV Gardening FFXIV Chocobo Colour Calculator Garland Tools FFXIV Chocobo Racing – A guide for all skill levels Progression and Level Locked Content – Gamer Escape: Gaming News, Reviews, Wikis, and Podcasts FFXIV Hunts Path Finder FFXIV Squadron Sightseeing Log Helper Eorzea Collection XIV Style | Breaking Brick Mountains Glamour Sets Wondrous Tails Solver FFXIV Ocean Fishing Guide: Mount, Minion, and Spectral Current Tips | Digital Trends Ocean Fishing Gear Set Saving  More to come</description>
     </item>
     
     <item>
@@ -116,16 +126,6 @@ Off Global Cooldown (oGCD) Have a cast of &amp;ldquo;instant&amp;rdquo; and can 
       <description>Tankbuster An attack, or quick series of attacks, that does immense damage. Must be mitigated through!
 Some tankbusters are shared, either between the Main and Off Tank, or the whole party!
  </description>
-    </item>
-    
-    <item>
-      <title>Tanks</title>
-      <link>https://www.spicychicken.quest/sproots/tanks/</link>
-      <pubDate>Tue, 20 Jul 2021 22:11:19 +0100</pubDate>
-      
-      <guid>https://www.spicychicken.quest/sproots/tanks/</guid>
-      <description>Put on Emnity (threat) Stance Simply having this turned on, you hold threat as long as you hit the targets!
-    DRK: Grit WAR: Defiance GNB: Royal Guard PLD: Iron Will            Just because the boss is not physically looking at you does NOT mean you have lost threat There are actions that a boss, or mob will perform that have them physicall turn away from you.</description>
     </item>
     
     <item>
