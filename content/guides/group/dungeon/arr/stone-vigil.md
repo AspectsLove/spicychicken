@@ -1,7 +1,7 @@
 ---
 title: "41: Stone Vigil"
 date: 2021-07-23T04:05:14+01:00
-draft: false
+draft: true
 
 weight: 10
 tags: ['dungeon']

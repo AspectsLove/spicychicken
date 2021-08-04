@@ -1,7 +1,7 @@
 ---
 title: "20: Halatali"
 date: 2021-07-23T03:49:02+01:00
-draft: false
+draft: true
 
 weight: 4
 tags: ['dungeon']

@@ -3,7 +3,7 @@ title: "17: Copperbell Mines"
 date: 2021-07-23T03:48:41+01:00
 draft: false
 weight: 3
-tags: ['dungeon']
+tags: ['dungeon', 'arr']
 ---
 [Link to detailed guide for dungeon](https://ffxiv.consolegameswiki.com/wiki/Copperbell_Mines)
 

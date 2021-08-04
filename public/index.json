@@ -67,7 +67,7 @@
 	"title": "A Realm Reborn",
 	"tags": [],
 	"description": "",
-	"content": "2.0 A Real Reborn Dungeons Lvl: Dungeon Name  15: Sastasha   16: Tam Tara Deepcroft   17: Copperbell Mines   20: Halatali   24: Thousand Maws Toto Rak   28: Haukke Manor   32: Brayfloxs Longstop   35: Sunken Temple Qarn   38: Cutters Cry   41: Stone Vigil   44: Dzemael Darkhold   47: Aurum Vale   "
+	"content": "2.0 A Real Reborn Dungeons Lvl: Dungeon Name  15: Sastasha   16: Tam Tara Deepcroft   17: Copperbell Mines   "
 },
 {
 	"uri": "https://www.spicychicken.quest/guides/group/raid/heavensward/",
@@ -100,7 +100,7 @@
 {
 	"uri": "https://www.spicychicken.quest/guides/group/dungeon/arr/copperbell-mines/",
 	"title": "17: Copperbell Mines",
-	"tags": ["dungeon"],
+	"tags": ["dungeon", "arr"],
 	"description": "",
 	"content": "Link to detailed guide for dungeon\n  Map of Dungeon   map\n  Special Loot Nothing of note\n Trash part 1 Make sure you pick up the tiny key dropped by mobs!\n The first 2 spriggans in the dungeon leash back to the beginning if you do not kill them fast and move too far ahead.\n Kottos Kill adds. Kill adds. Kill adds\u0026hellip; yawn\u0026hellip; kill adds\u0026hellip; Oo boss!\n Trash part 2 Certain mobs have a \u0026ldquo;leash\u0026rdquo;. So try and kill groups in rooms instead of trying to group them all up.\n Ichorous Ire DPS and Healers dance between activating Improved Blasting Device! Let the tank hold the boss and it\u0026rsquo;s revealed counterparts.\n Trash Part 3 For a new healers and tanks, mass pulling can be tricky!\n It makes no difference which path you take!\n Gyges the Great Current community method is to just stay on the boss and ignore adds. Enjoy the Limit Break!\n "
 },
@@ -147,13 +147,6 @@
 	"content": "They Like Me! Reputation   ARR    Amalj\u0026rsquo;aa: Neutral Sylphs: Neutral Kobolds: Recognized Sahagin: Friendly Ixal: Sworn      Heavensward    Vanu Vanu: Honored Vath: Bloodsworn Moogles: Sworn      Stormblood [COMPLETE]    Vanu Vanu: Allied Vath: Allied Moogles: Allied      Shadowbringers [COMPLETE]    Dwarves: Bloodsworn Qitari: Bloodsworn Pixies: Bloodsworn    "
 },
 {
-	"uri": "https://www.spicychicken.quest/guides/group/dungeon/arr/halatali/",
-	"title": "20: Halatali",
-	"tags": ["dungeon"],
-	"description": "",
-	"content": "Link to detailed guide for dungeon\n  Map of Dungeon   map\n  Special Loot Cards, Minions, Mounts, Other\n Trash part 1 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 1  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash part 2 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 2  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash Part 3 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 3  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Current community method of attack\n "
-},
-{
 	"uri": "https://www.spicychicken.quest/guides/group/raid/shadowbringers/",
 	"title": "Shadowbingers",
 	"tags": [],
@@ -194,13 +187,6 @@
 	"tags": [],
 	"description": "",
 	"content": "All games have their own lingo Glossary This is just a glossary of terms that are used throughough the guide and in FFXIV.\n  GCD/oGCD   Tankbuster   "
-},
-{
-	"uri": "https://www.spicychicken.quest/guides/group/dungeon/arr/thousand-maws-toto-rak/",
-	"title": "24: Thousand Maws Toto Rak",
-	"tags": ["dungeon"],
-	"description": "",
-	"content": "Link to detailed guide for dungeon\n  Map of Dungeon   map\n  Special Loot Cards, Minions, Mounts, Other\n Trash part 1 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 1  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash part 2 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 2  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash Part 3 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 3  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Current community method of attack\n "
 },
 {
 	"uri": "https://www.spicychicken.quest/guides/group/raid/endwalker/",
@@ -280,25 +266,11 @@
 	"content": "Best Friends Trust Current dungeon Dohn Mheg\n  Alphinaud: 74 Alisaie: 74 Thancred: 75 Urianger: 74 Y\u0026rsquo;shtola: 74 Ryne: 74 G\u0026rsquo;raha Tia: 80  Squardron Website for modifying Squadron: http://ffxivsquadron.com/ {{ /notice}}\n "
 },
 {
-	"uri": "https://www.spicychicken.quest/guides/group/dungeon/arr/haukke-manor/",
-	"title": "28: Haukke Manor",
-	"tags": ["dungeon"],
-	"description": "",
-	"content": "Link to detailed guide for dungeon\n  Map of Dungeon   map\n  Special Loot Cards, Minions, Mounts, Other\n Trash part 1 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 1  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash part 2 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 2  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash Part 3 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 3  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Current community method of attack\n "
-},
-{
 	"uri": "https://www.spicychicken.quest/guides/group/dungeon/endwalker/",
 	"title": "Endwalker",
 	"tags": [],
 	"description": "",
 	"content": "Endwalker Dungeons Lorem Ipsum.\n"
-},
-{
-	"uri": "https://www.spicychicken.quest/guides/group/dungeon/arr/brayfloxs-longstop/",
-	"title": "32: Brayfloxs Longstop",
-	"tags": ["dungeon"],
-	"description": "",
-	"content": "Link to detailed guide for dungeon\n  Map of Dungeon   map\n  Special Loot Cards, Minions, Mounts, Other\n Trash part 1 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 1  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash part 2 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 2  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash Part 3 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 3  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Current community method of attack\n "
 },
 {
 	"uri": "https://www.spicychicken.quest/tirzah/gathering/",
@@ -308,25 +280,11 @@
 	"content": "Swish swish Gathering Level  Botanist: 80 Mining: 80 Feee-ishing: 80  "
 },
 {
-	"uri": "https://www.spicychicken.quest/guides/group/dungeon/arr/sunken-temple-qarn/",
-	"title": "35: Sunken Temple Qarn",
-	"tags": ["dungeon"],
-	"description": "",
-	"content": "Link to detailed guide for dungeon\n  Map of Dungeon   map\n  Special Loot Cards, Minions, Mounts, Other\n Trash part 1 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 1  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash part 2 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 2  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash Part 3 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 3  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Current community method of attack\n "
-},
-{
 	"uri": "https://www.spicychicken.quest/tirzah/fates/",
 	"title": "Fates",
 	"tags": [],
 	"description": "",
 	"content": "Pink Spawns Fates Sometimes there are things worth grinding for. Like baby Amaros\n Lakeland: 34/60 Amh Araeng: 1/6 Il Mheg: 12/60 Khlusia: 5/6 The Rak\u0026rsquo;tika \u0026ldquo;Laa Hee\u0026rdquo; Greatwood: 5/60 The Tempest: 2/60  "
-},
-{
-	"uri": "https://www.spicychicken.quest/guides/group/dungeon/arr/cutters-cry/",
-	"title": "38: Cutters Cry",
-	"tags": ["dungeon"],
-	"description": "",
-	"content": "Link to detailed guide for dungeon\n  Map of Dungeon   map\n  Special Loot Cards, Minions, Mounts, Other\n Trash part 1 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 1  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash part 2 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 2  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash Part 3 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 3  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Current community method of attack\n "
 },
 {
 	"uri": "https://www.spicychicken.quest/tirzah/retainers/",
@@ -343,13 +301,6 @@
 	"content": "Welcome to SpicyChicken Quest The intent of this website is to offer quick look guides for new players. It is still under development as this is a living, breathing set of guides. Check back or get involved!\n \u0026ldquo;This site is literally just a goofball concept to track thoughts, notes, and tasks in FFXIV. That is all. Nothing more. Okay, well, it\u0026rsquo;s also a place for some quick guides and stuff\u0026hellip;\u0026rdquo; ♥♥ Tirzah\n "
 },
 {
-	"uri": "https://www.spicychicken.quest/guides/group/dungeon/arr/stone-vigil/",
-	"title": "41: Stone Vigil",
-	"tags": ["dungeon"],
-	"description": "",
-	"content": "Link to detailed guide for dungeon\n  Map of Dungeon   map\n  Special Loot Cards, Minions, Mounts, Other\n Trash part 1 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 1  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash part 2 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 2  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash Part 3 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 3  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Current community method of attack\n "
-},
-{
 	"uri": "https://www.spicychicken.quest/tirzah/farm/",
 	"title": "Gangos",
 	"tags": [],
@@ -357,18 +308,11 @@
 	"content": "The Farm Bozjan Southern Front  DR Savage  Zadnor Valor  Fortitude: 3 Valor: 6 Succor: 2  Field Notes needed  Number 12: For Absent Friends Number 38: Atrocities Number 44: Dalraida  Link  Lost Fragment Doc  Extra notes  Star Farm: Lost Death (1 use throwaway) + Sleep Sprite: Stormy weather + Lost Reflect Lost reflect/spirit of the guardian: Support - Sprites  Maps   BSF Star Locations       Zadnor Locations     Lysias  Licorice Kill Star Mobs Metal Fox chaos Trampled under hoof Where strode the behemoth Bojan Rider Gravekeeper  "
 },
 {
-	"uri": "https://www.spicychicken.quest/guides/group/dungeon/arr/dzemael-darkhold/",
-	"title": "44: Dzemael Darkhold",
-	"tags": ["dungeon"],
+	"uri": "https://www.spicychicken.quest/tags/arr/",
+	"title": "arr",
+	"tags": [],
 	"description": "",
-	"content": "Link to detailed guide for dungeon\n  Map of Dungeon   map\n  Special Loot Cards, Minions, Mounts, Other\n Trash part 1 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 1  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash part 2 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 2  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash Part 3 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 3  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Current community method of attack\n "
-},
-{
-	"uri": "https://www.spicychicken.quest/guides/group/dungeon/arr/aurum-vale/",
-	"title": "47: Aurum Vale",
-	"tags": ["dungeon"],
-	"description": "",
-	"content": "Link to detailed guide for dungeon\n  Map of Dungeon   map\n  Special Loot Cards, Minions, Mounts, Other\n Trash part 1 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 1  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash part 2 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 2  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Trash Part 3 Things that will kill the group\n Quick tips for speedy trash pulls\n Boss 3  Any special mechanics needed for this boss? Any tankbuster names? Any raid wide names?  Current community method of attack\n "
+	"content": ""
 },
 {
 	"uri": "https://www.spicychicken.quest/tags/dungeon/",
@@ -380,13 +324,6 @@
 {
 	"uri": "https://www.spicychicken.quest/tags/",
 	"title": "Tags",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://www.spicychicken.quest/tags/arr/",
-	"title": "arr",
 	"tags": [],
 	"description": "",
 	"content": ""

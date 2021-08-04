@@ -6,7 +6,7 @@
     <description>Recent content in arr on Spicy Chicken Quest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Jul 2021 03:45:50 +0100</lastBuildDate><atom:link href="https://www.spicychicken.quest/tags/arr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Jul 2021 03:48:41 +0100</lastBuildDate><atom:link href="https://www.spicychicken.quest/tags/arr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>15: Sastasha</title>
       <link>https://www.spicychicken.quest/guides/group/dungeon/arr/sastasha/</link>
@@ -30,6 +30,20 @@
  Trash x 3 The are ranged casters in this dungeon, so group up the mobs near the ranged to ensure AoE emnity is maintained!
  Group up mobs together to allow the very few jobs that have AoE at this level can do so.
  Void Soulcounter x 3  When a Void Soulcounter shows up, it will cast Enthunder which can be interupted quickly in order to prevent it getting an attack speed buff.</description>
+    </item>
+    
+    <item>
+      <title>17: Copperbell Mines</title>
+      <link>https://www.spicychicken.quest/guides/group/dungeon/arr/copperbell-mines/</link>
+      <pubDate>Fri, 23 Jul 2021 03:48:41 +0100</pubDate>
+      
+      <guid>https://www.spicychicken.quest/guides/group/dungeon/arr/copperbell-mines/</guid>
+      <description>Link to detailed guide for dungeon
+  Map of Dungeon   map
+  Special Loot Nothing of note
+ Trash part 1 Make sure you pick up the tiny key dropped by mobs!
+ The first 2 spriggans in the dungeon leash back to the beginning if you do not kill them fast and move too far ahead.
+ Kottos Kill adds. Kill adds. Kill adds&amp;hellip; yawn&amp;hellip; kill adds&amp;hellip; Oo boss!</description>
     </item>
     
   </channel>
