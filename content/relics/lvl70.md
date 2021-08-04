@@ -75,8 +75,8 @@ So the fate grind continues and now we add the goal to kill Providence Watcher, 
 | Item | Required Amount | Item 2 | Required Amount | Which step? |
 | --- | ---: | --- | ---: | -- |
 | Hydatos Crystals | 50 ||| Hydatos |
-| Hydatos Crystals | 100 ||| +1
-| Hydatos Crystals | 100 ||| +2
+| Hydatos Crystals | 100 ||| +1 |
+| Hydatos Crystals | 100 ||| +2 |
 | Hydatos Crystals | 100 | Crystalline Scales (these cannot be bought) | 5 | Hydatos Base relic Complete |
 
 ## Base Relic complete?
