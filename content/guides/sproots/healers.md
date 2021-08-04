@@ -24,8 +24,8 @@ As long as they enough health to survive the tankbuster or raidwide, they are fi
 You can tell something is removable by Esuna by the debuff icon. Small blue line over the debuff means you can cleanse it. 
 {{% /notice %}}
 | Removable by Esuna | Not Removable by Esuna |
-|---- | ---- |
-| ![removable](/images/removable.jpg) | ![not-removable](/images/not-removable.jpg)
+| --- | --- |
+| ![removable](/images/removable.jpg) | ![not-removable](/images/not-removable.jpg) |
 
 {{% notice tip %}}
 It's not always worth it to **Esuna** a debuff. You can lose valuable DPS time as **Esuna** is a cast, not instant, and sometimes the damage done by the debuff is trivial.
