@@ -193,7 +193,7 @@
 	"title": "Glossary",
 	"tags": [],
 	"description": "",
-	"content": "All games have their own lingo Glossary This is just a glossary of terms that are used throughough the guide and in FFXIV.\n   Off Global Cooldown (oGCD)   Abilities and skills that have a recast of \u0026ldquo;Instant\u0026rdquo;.\n    Global Cooldown (GCD)   Abilities and skills that have a have a time associated with recast.\n    Tankbuster   An attack, or quick series of attacks, that does immense damge. Must be mitigated through!\n  "
+	"content": "All games have their own lingo Glossary This is just a glossary of terms that are used throughough the guide and in FFXIV.\n  GCD/oGCD   Tankbuster   "
 },
 {
 	"uri": "https://www.spicychicken.quest/guides/group/dungeon/arr/thousand-maws-toto-rak/",
@@ -410,7 +410,21 @@
 	"title": "Dps",
 	"tags": [],
 	"description": "",
-	"content": "Mechanics are more important than your DPS If you choose to ignore a mechanic, there\u0026rsquo;s a good chance you will die. Dead DPS do no DPS.\n Don\u0026rsquo;t stand in front of the boss It\u0026rsquo;s a good way to get cleaved or tankbusted and die. Dead DPS do no DPS.\n If you\u0026rsquo;re ranged, stay near healer  Healers have heals that are mostly centered around themselves (there are exceptions), but this helps them to be able to do top ups quickly from raidwides.\n If you decide to stay as far from everyone as possible, do not be surprised if a healer lets you die. Dead DPS do not DPS.\n Know your interupts! This cannot be stressed enough. Know what types of interrupts you have!\n Surecast and Arm\u0026rsquo;s Length are your friend! Surecast (Casters) and Arm\u0026rsquo;s Length (Physical DPS) can be used during some mechanics to allow you to stay in place and finish a cast, or combo!\n "
+	"content": "Mechanics are more important than your DPS If you choose to ignore a mechanic, there\u0026rsquo;s a good chance you will die. Dead DPS do no DPS.\n Don\u0026rsquo;t stand in front of the boss It\u0026rsquo;s a good way to get cleaved or tankbustered and die. Dead DPS do no DPS.\n If you\u0026rsquo;re ranged, stay near healer  Healers have heals that are mostly centered around themselves (there are exceptions), but this helps them to be able to do top ups quickly from raidwides.\n If you decide to stay as far from everyone as possible, do not be surprised if a healer lets you die. Dead DPS do not DPS.\n Know your interupts! This cannot be stressed enough. Know what types of interrupts you have!\n Surecast and Arm\u0026rsquo;s Length are your friend! Surecast (Casters) and Arm\u0026rsquo;s Length (Physical DPS) can be used during some mechanics to allow you to stay in place and finish a cast, or combo!\n "
+},
+{
+	"uri": "https://www.spicychicken.quest/glossary/gcd-ogcd/",
+	"title": "GCD/oGCD",
+	"tags": [],
+	"description": "",
+	"content": "Global Cooldown (GCD) Share a cast timer with each other. Have the tags of \u0026ldquo;Weaponskill\u0026rdquo; or \u0026ldquo;Spell\u0026rdquo;.\nOff Global Cooldown (oGCD) Have a cast of \u0026ldquo;instant\u0026rdquo; and can be woven between GCDs.\n"
+},
+{
+	"uri": "https://www.spicychicken.quest/glossary/tankbuster/",
+	"title": "Tankbuster",
+	"tags": [],
+	"description": "",
+	"content": "Tankbuster An attack, or quick series of attacks, that does immense damage. Must be mitigated through!\nSome tankbusters are shared, either between the Main and Off Tank, or the whole party!\n "
 },
 {
 	"uri": "https://www.spicychicken.quest/guides/sproots/tanks/",

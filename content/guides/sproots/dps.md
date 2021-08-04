@@ -14,7 +14,7 @@ If you choose to ignore a [mechanic](https://spicychicken.quest/guides/group/mec
 
 ### Don't stand in front of the boss
 {{% notice warning %}}
-It's a good way to get cleaved or tankbusted and die. Dead DPS do no DPS.
+It's a good way to get cleaved or **[tankbustered](https://spicychicken.quest/glossary/)** and die. Dead DPS do no DPS.
 {{% /notice %}}
 
 ### If you're ranged, stay near healer
