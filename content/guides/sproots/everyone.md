@@ -53,10 +53,10 @@ You have to test to find out which stuns / interrupts work. General rule of thum
 These will heal you and/or reduce damage taken!
 {{% /notice %}}
 
-| White Mage | Scholar | Astrologian |
-| --- | --- | --- | 
-| ![Asylum](/images/whitemagegoodness.jpg) | ![Sacred Soil](/images/scholargoodness.jpg) | ![Earthly Star](/images/astgoodness.jpg) |
-| Heals those in it | Heals / mitigates damage | Heals / Damage |
+| White Mage | Scholar | Astrologian | Astrologian |
+| --- | --- | --- | --- |
+| ![Asylum](/images/whitemagegoodness.jpg) | ![Sacred Soil](/images/scholargoodness.jpg) | ![Earthly Star](/images/astgoodness.jpg) | ![Collective Unconscious](/images/collective-unconscious.jpg)
+| Heals those in it | Heals / mitigates damage | Heals / Damage | Heals / Mitigates |
 
 {{% notice tip %}}
 These do damage to enemies when they stand in it!

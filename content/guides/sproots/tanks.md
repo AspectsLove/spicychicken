@@ -5,8 +5,6 @@ draft: false
 
 ---
 
-
-## Tanks 
 ### Put on Emnity (threat) Stance
 
 {{% notice tip %}}
@@ -39,11 +37,14 @@ All provoke does is set your emnity to be equal to the highest level eminity cur
 ### Minimize Movement
 
 {{% notice tip %}}
-Melee jobs have positionals and you make them **lose damage** by moving a lot.
+Melee jobs have positionals and you make them **lose damage** if you move the boss around a lot.
 {{% /notice %}}
 
 
 ### Pace your use of mitigations, do not use them all at once
+{{% notice warning %}}
+You will want to use your big mitigations for **[tankbusters](https://spicychicken.quest/glossary/)**!
+{{% /notice %}}
 * **ROLE BASED**: Rampart, Reprisal, Arm's Length
 * **PLD**: Sheltron, Sentinal, and others
 * **WAR**: Thill of Battle, Vengeance, Raw Intuition, Equilibrium, and others

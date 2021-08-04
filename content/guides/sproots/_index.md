@@ -24,6 +24,5 @@ Select your role for quick tips:
 
 ### Requested changes
 * role actions for healers and dps
-* cast bar differences
 * shifting of damage puddles to tank section
 * tank turns does not mean you lose threat

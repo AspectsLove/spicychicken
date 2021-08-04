@@ -15,13 +15,13 @@ This is just a glossary of terms that are used throughough the guide and in FFXI
 {{% /notice %}}
 
 {{% expand "Global Cooldown (GCD)" %}}
-*Definition goes here*
+Abilities and skills that have a recast of "Instant".
 {{% /expand %}}
 
 {{% expand "Global Cooldown (GCD)" %}}
-*Definition goes here*
+Abilities and skills that have a have a time associated with recast.
 {{% /expand %}}
 
 {{% expand "Tankbuster" %}}
-*Definition goes here*
+An attack, or quick series of attacks, that does immense damge. Must be mitigated through!
 {{% /expand %}}
