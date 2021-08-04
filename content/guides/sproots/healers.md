@@ -6,7 +6,7 @@ draft: false
 ---
 ### Your job is more than healing
 {{% notice warning %}}
-**Be sure you DPS**, future content requires healers to DPS and heal. Get used to it now.
+**Be sure you DPS**! For all encounters the developers include healer DPS for mechanics, enrages, etc. Get used to it now.
 {{% /notice %}}
 
 ### You do not have to keep people at 100% health

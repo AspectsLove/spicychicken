@@ -56,7 +56,7 @@ These will heal you and/or reduce damage taken!
 | White Mage | Scholar | Astrologian | Astrologian |
 | --- | --- | --- | --- |
 | ![Asylum](/images/whitemagegoodness.jpg) | ![Sacred Soil](/images/scholargoodness.jpg) | ![Earthly Star](/images/astgoodness.jpg) | ![Collective Unconscious](/images/collective-unconscious.jpg)
-| Heals those in it | Heals / mitigates damage | Heals / Damage | Heals / Mitigates |
+| Heals those in it | Heals / Mitigates  | Heals / Does Damage | Heals / Mitigates |
 
 {{% notice tip %}}
 These do damage to enemies when they stand in it!
