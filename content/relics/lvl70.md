@@ -61,7 +61,7 @@ Logograms are duty actions, which range from buffing yourself, the party or even
 {{% /notice %}}
 
 | Item | Required Amount | Item 2 | Required Amount | Which step? |
-| --- | ---: | --- | ---: | -- |
+| --- | ---: | --- | ---: | --- |
 | Pyros crystals | 100 | Logograms | 10 | +1 |   
 | Pyros crystals | 200 | Logograms | 20 | +2 |
 | Pyros crystals | 300 | Penthesile's Flame (50 Pyros Crystals each at vendor) | 5 | Pagos Complete |
@@ -73,7 +73,7 @@ So the fate grind continues and now we add the goal to kill Providence Watcher, 
 {{% /notice %}}
 
 | Item | Required Amount | Item 2 | Required Amount | Which step? |
-| --- | ---: | --- | ---: | -- |
+| --- | ---: | --- | ---: | --- |
 | Hydatos Crystals | 50 ||| Hydatos |
 | Hydatos Crystals | 100 ||| +1 |
 | Hydatos Crystals | 100 ||| +2 |
