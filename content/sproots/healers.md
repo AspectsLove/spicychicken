@@ -2,7 +2,7 @@
 title: "Healers"
 date: 2021-07-20T22:11:30+01:00
 draft: false
-
+pre: "<img src=\"/images/HealerRole.png\" height=25px width=25px> "
 ---
 ### Your job is more than healing
 {{% notice warning %}}
@@ -46,7 +46,7 @@ Using a **Swiftcast** Raise, Resurrection, Ascend can bring someone back while y
 {{% /notice %}}
 
 {{% notice note %}}
-If the person you pick up starts to do anything and ignores [this tip](http://spicychicken.quest/guides/sproots/everyone/#death-happens), there is a good chance they will die without you healing them up for a raidwide. Don't feel bad.
+If the person you pick up starts to do anything and ignores [this tip](http://spicychicken.quest/sproots/everyone/#death-happens), there is a good chance they will die without you healing them up for a raidwide. Don't feel bad.
 {{% /notice %}}
 
 ### You too can use use Limit Break!
@@ -70,10 +70,10 @@ Well intentioned healers try to move people or save them using **Rescue**, howev
 
 ### Surecast will save your life
 {{% notice note %}}
-You should have **Surecast** on your toolbar. There are a lot of [mechanics](https://spicychicken.quest/guides/group/mechanics/) that move you around the arena that can be completely ignored, or mitigated, by using it!
+You should have **Surecast** on your toolbar. There are a lot of [mechanics](https://spicychicken.quest/sproots/mechanics/) that move you around the arena that can be completely ignored, or mitigated, by using it!
 {{% /notice %}} 
 
 ### You have a stun!
 {{% notice info %}}
-Your **Repose** is actually a [stun](http://spicychicken.quest/guides/sproots/everyone/#know-your-interrupts)!
+Your **Repose** is actually a [stun](http://spicychicken.quest/sproots/everyone/#know-your-interrupts)!
 {{% /notice %}}

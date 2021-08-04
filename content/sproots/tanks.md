@@ -2,7 +2,7 @@
 title: "Tanks"
 date: 2021-07-20T22:11:19+01:00
 draft: false
-
+pre: "<img src=\"/images/TankRole.png\" height=25px width=25px> "
 ---
 
 ### Put on Emnity (threat) Stance
@@ -45,6 +45,7 @@ Melee jobs have positionals and you make them **lose damage** if you move the bo
 {{% notice warning %}}
 You will want to use your big mitigations for **[tankbusters](https://spicychicken.quest/glossary/)**!
 {{% /notice %}}
+
 * **ROLE BASED**: Rampart, Reprisal, Arm's Length
 * **PLD**: Sheltron, Sentinal, and others
 * **WAR**: Thill of Battle, Vengeance, Raw Intuition, Equilibrium, and others
@@ -52,6 +53,7 @@ You will want to use your big mitigations for **[tankbusters](https://spicychick
 * **DRK**: Shadow Wall, Dark Mind, Dark Missionary, and others
 
 ### Your Immunities should not be used on cooldown, save for dire purposes (large aoe pack pulls as an example)
+
 * **PLD**: Hallowed Ground
 * **WAR**: Holmgang
 * **GNB**: Superbolide

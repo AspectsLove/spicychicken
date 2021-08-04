@@ -1,30 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Guides on Spicy Chicken Quest</title>
-    <link>https://app.spicychicken.quest/sproots/</link>
-    <description>Recent content in Guides on Spicy Chicken Quest</description>
+    <title>Roles on Spicy Chicken Quest</title>
+    <link>https://www.spicychicken.quest/sproots/</link>
+    <description>Recent content in Roles on Spicy Chicken Quest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jun 2021 21:25:00 +0100</lastBuildDate><atom:link href="https://app.spicychicken.quest/sproots/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Jul 2021 22:06:47 +0100</lastBuildDate><atom:link href="https://www.spicychicken.quest/sproots/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sproot Tips</title>
-      <link>https://app.spicychicken.quest/sproots/sproots/</link>
-      <pubDate>Sun, 13 Jun 2021 21:28:08 +0100</pubDate>
+      <title>Visual Guide to Mechanics</title>
+      <link>https://www.spicychicken.quest/sproots/mechanics/</link>
+      <pubDate>Sun, 25 Jul 2021 17:12:38 +0100</pubDate>
       
-      <guid>https://app.spicychicken.quest/sproots/sproots/</guid>
-      <description>Quicklinks  Everyone Tanks DPS Healers  Dungeons / Trials / Raids A few quick tips to help you when you load into a dungeon, trial, or raid.
-Everyone Stand in the Good Puddles! These will heal you and/or reduce damage taken!
-    White Mage Scholar Astrologian          Heals those in it Heals / mitigates damage Heals / Damage    These do damage to enemies when they stand in it!</description>
+      <guid>https://www.spicychicken.quest/sproots/mechanics/</guid>
+      <description>Throughout your gameplay, you will run across various mechanics that repeat in dungeons, trials, and raids. This is an attempt to help you understand what to do if you see them
+    Stack Marker Action Time Maneuver Action Time Maneuver Player Action     This is a huge damage attack that needs to be shared among as many people as possible. Thus&amp;hellip; stack on whoever has the marker When you see the image above, prepare to spam your buttons (keyboard / mouse / joystick) Spam your buttons (keyboard / mouse / joystick)!</description>
     </item>
     
     <item>
-      <title>Helpful Links</title>
-      <link>https://app.spicychicken.quest/sproots/links/</link>
-      <pubDate>Sun, 13 Jun 2021 21:28:08 +0100</pubDate>
+      <title>Everyone</title>
+      <link>https://www.spicychicken.quest/sproots/everyone/</link>
+      <pubDate>Tue, 20 Jul 2021 22:11:34 +0100</pubDate>
       
-      <guid>https://app.spicychicken.quest/sproots/links/</guid>
-      <description>Soo much information!  Ocean Fishing Gear Sets  More to come</description>
+      <guid>https://www.spicychicken.quest/sproots/everyone/</guid>
+      <description>Limit Break is your friend! You can find the action Limit Break in your &amp;ldquo;Actions &amp;amp; Traits&amp;rdquo; window, under &amp;ldquo;General&amp;rdquo;.
+ Generally speaking, Limit Break is saved for the last boss for the DPS to use when the boss hits 10% health. This changes as you get further into trials / dungeons / etc. There are unique trials that require the use of LB3 by specific roles in certain circumstances.</description>
+    </item>
+    
+    <item>
+      <title>Healers</title>
+      <link>https://www.spicychicken.quest/sproots/healers/</link>
+      <pubDate>Tue, 20 Jul 2021 22:11:30 +0100</pubDate>
+      
+      <guid>https://www.spicychicken.quest/sproots/healers/</guid>
+      <description>Your job is more than healing Be sure you DPS! For all encounters the developers include healer DPS for mechanics, enrages, etc. Get used to it now.
+ You do not have to keep people at 100% health As long as they enough health to survive the tankbuster or raidwide, they are fine! There is passive healing in combat and massive passive healing out of combat!
+ Plan for your group run Check your party&amp;rsquo;s gear, you&amp;rsquo;ll want to know if they are undergeared for the level dungeon/trial/raid you are doing.</description>
+    </item>
+    
+    <item>
+      <title>DPS</title>
+      <link>https://www.spicychicken.quest/sproots/dps/</link>
+      <pubDate>Tue, 20 Jul 2021 22:11:23 +0100</pubDate>
+      
+      <guid>https://www.spicychicken.quest/sproots/dps/</guid>
+      <description>Mechanics are more important than your DPS If you choose to ignore a mechanic, there&amp;rsquo;s a good chance you will die. Dead DPS do no DPS.
+ Don&amp;rsquo;t stand in front of the boss It&amp;rsquo;s a good way to get cleaved or tankbustered and die. Dead DPS do no DPS.
+ If you&amp;rsquo;re ranged, stay near healer  Healers have heals that are mostly centered around themselves (there are exceptions), but this helps them to be able to do top ups quickly from raidwides.</description>
+    </item>
+    
+    <item>
+      <title>Tanks</title>
+      <link>https://www.spicychicken.quest/sproots/tanks/</link>
+      <pubDate>Tue, 20 Jul 2021 22:11:19 +0100</pubDate>
+      
+      <guid>https://www.spicychicken.quest/sproots/tanks/</guid>
+      <description>Put on Emnity (threat) Stance Simply having this turned on, you hold threat as long as you hit the targets!
+    DRK: Grit WAR: Defiance GNB: Royal Guard PLD: Iron Will            Just because the boss is not physically looking at you does NOT mean you have lost threat There are actions that a boss, or mob will perform that have them physicall turn away from you.</description>
     </item>
     
   </channel>

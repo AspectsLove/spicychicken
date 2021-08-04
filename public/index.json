@@ -1,6 +1,6 @@
 [
 {
-	"uri": "https://www.spicychicken.quest/guides/group/mechanics/",
+	"uri": "https://www.spicychicken.quest/sproots/mechanics/",
 	"title": "Visual Guide to Mechanics",
 	"tags": [],
 	"description": "",
@@ -28,18 +28,18 @@
 	"content": "2.0 A Real Reborn Trials Lorem Ipsum.\n"
 },
 {
-	"uri": "https://www.spicychicken.quest/guides/sproots/",
+	"uri": "https://www.spicychicken.quest/sproots/",
 	"title": "Roles",
 	"tags": [],
 	"description": "",
-	"content": "Classes, Jobs, Roles Sproot Tips Select your role for quick tips:\n Everyone Healers DPS Tanks   Requested changes  role actions for healers and dps shifting of damage puddles to tank section tank turns does not mean you lose threat  "
+	"content": "Classes, Jobs, Roles Sproot Tips Select your role for quick tips:\n Visual Guide to Mechanics   Everyone   Healers   DPS   Tanks    "
 },
 {
 	"uri": "https://www.spicychicken.quest/guides/",
 	"title": "Guides",
 	"tags": [],
 	"description": "",
-	"content": "So you need help eh? Helpful Things Rule 1 of Mentor Club:\nIf you have a crown, do what you can to help. Otherwise turn it off.\nRule 2 of Mentor Club:\nThere is so much content in this game and mentors can end up anywhere.\nIf you find a mentor who can\u0026rsquo;t answer every single questions, it does not make them a bad mentor.\nThey should be able to point you in a good direction though.\nTopics  Roles   Group Content   Crafting   Helpful Links   "
+	"content": "So you need help eh? Helpful Things Rule 1 of Mentor Club:\nIf you have a crown, do what you can to help. Otherwise turn it off.\nRule 2 of Mentor Club:\nThere is so much content in this game and mentors can end up anywhere.\nIf you find a mentor who can\u0026rsquo;t answer every single questions, it does not make them a bad mentor.\nThey should be able to point you in a good direction though.\nTopics  Group Content   Crafting   Helpful Links   "
 },
 {
 	"uri": "https://www.spicychicken.quest/guides/group/dungeon/",
@@ -137,7 +137,7 @@
 	"title": "Group Content",
 	"tags": [],
 	"description": "",
-	"content": "Mechanics To Remember Dungeons / Raids / Trials Oh My! There are a lot of different 4 and 8 man instances that have mechanics. This section is all about helping remember what happens in each.\n Visual Guide to Mechanics   Dungeon   Trial   Raid   "
+	"content": "Mechanics To Remember Dungeons / Raids / Trials Oh My! There are a lot of different 4 and 8 man instances that have mechanics. This section is all about helping remember what happens in each.\n Dungeon   Trial   Raid   "
 },
 {
 	"uri": "https://www.spicychicken.quest/tirzah/reputation/",
@@ -392,22 +392,22 @@
 	"content": ""
 },
 {
-	"uri": "https://www.spicychicken.quest/guides/sproots/everyone/",
+	"uri": "https://www.spicychicken.quest/sproots/everyone/",
 	"title": "Everyone",
 	"tags": [],
 	"description": "",
 	"content": "Limit Break is your friend! You can find the action Limit Break in your \u0026ldquo;Actions \u0026amp; Traits\u0026rdquo; window, under \u0026ldquo;General\u0026rdquo;.\n Generally speaking, Limit Break is saved for the last boss for the DPS to use when the boss hits 10% health. This changes as you get further into trials / dungeons / etc. There are unique trials that require the use of LB3 by specific roles in certain circumstances.\n Death Happens If you die in battle\u0026hellip;\n  \u0026hellip;and are raised/revived/etc during combat: DO NOT: CAST, PERFORM AN ACTION, PERFORM A WEAPONSKILL. You have a few seconds of invulnerability. Give the healer a chance to heal you back up. \u0026hellip;you will get a weakness debuff. This means your main stat (STR, DEX, INT, MIND) is reduced by 25%. If you die again while under the weakness effect, you get the Brink of Death debuff which reduces those stats down by 50%.  Know your interrupts! You can find most interrupts in your \u0026ldquo;Actions \u0026amp; Traits\u0026rdquo; window under the section \u0026ldquo;Role\u0026rdquo;\n You have to test to find out which stuns / interrupts work. General rule of thumb, is the left castbar can be stunned or interrupted, and the right may be stunable.\n There are two types of cast bars, as seen below.    Interruptable This may be stunnable          The different types of interrupts    Interrupt Icon Name Role that uses it What it does      Leg Sweep NIN, DRG, MNK, SAM Stuns    Head Graze BRD, MCH, DNC Spell Interrupt    Low Blow DRK, PLD, WAR, GNB Stuns    Interject DRK, PLD, WAR, GNB Spell Interrupt    Shield Bash PLD Stun: It requires planning as it is on the GCD    Repose WHM, SCH, AST Sleep (counts as a stun): but requires cast time or Swiftcast; rarely used in dungeons, trials, etc    Sleep BLM Sleep (counts as a stun): requires cast time or Swiftcast; rarely used in dungeons, trials, etc    Know your puddles! These will heal you and/or reduce damage taken!\n    White Mage Scholar Astrologian Astrologian           Heals those in it Heals / Mitigates Heals / Does Damage Heals / Mitigates    These do damage to enemies when they stand in it!\n    Ninja Dark Knight Summoner          Does damage to targets in it Does damage to targets in it Does damage to targets in it    "
 },
 {
-	"uri": "https://www.spicychicken.quest/guides/sproots/healers/",
+	"uri": "https://www.spicychicken.quest/sproots/healers/",
 	"title": "Healers",
 	"tags": [],
 	"description": "",
 	"content": "Your job is more than healing Be sure you DPS! For all encounters the developers include healer DPS for mechanics, enrages, etc. Get used to it now.\n You do not have to keep people at 100% health As long as they enough health to survive the tankbuster or raidwide, they are fine! There is passive healing in combat and massive passive healing out of combat!\n Plan for your group run Check your party\u0026rsquo;s gear, you\u0026rsquo;ll want to know if they are undergeared for the level dungeon/trial/raid you are doing.\n Know what and when to Esuna You can tell something is removable by Esuna by the debuff icon. Small blue line over the debuff means you can cleanse it.\n    Removable by Esuna Not Removable by Esuna          It\u0026rsquo;s not always worth it to Esuna a debuff. You can lose valuable DPS time as Esuna is a cast, not instant, and sometimes the damage done by the debuff is trivial.\n Know who and when to bring someone back to life Following mechanics is more important than picking someone up who died!\n You can bring someone back in the middle of combat.\n Using a Swiftcast Raise, Resurrection, Ascend can bring someone back while you\u0026rsquo;re on the move!\n If the person you pick up starts to do anything and ignores this tip, there is a good chance they will die without you healing them up for a raidwide. Don\u0026rsquo;t feel bad.\n You too can use use Limit Break! Limit Break 3 brings everyone in your party back to life, with no debuff, and resets cooldowns! This has saved more trials, extremes, raids, etc than the writer of this guide can count!\n Managing your MP Use Lucid Dreaming when your MP gets to about 70% and then keep Lucid Dreaming on cooldown!\n Rescue is both a blessing and a curse Well intentioned healers try to move people or save them using Rescue, however some players get really upset if you use it on them.\n Rescue only moves the target to be right in front of you, so make sure that space is outside of a mechanic if you\u0026rsquo;re trying to save someone.\n Surecast will save your life You should have Surecast on your toolbar. There are a lot of mechanics that move you around the arena that can be completely ignored, or mitigated, by using it!\n You have a stun! Your Repose is actually a stun!\n "
 },
 {
-	"uri": "https://www.spicychicken.quest/guides/sproots/dps/",
-	"title": "Dps",
+	"uri": "https://www.spicychicken.quest/sproots/dps/",
+	"title": "DPS",
 	"tags": [],
 	"description": "",
 	"content": "Mechanics are more important than your DPS If you choose to ignore a mechanic, there\u0026rsquo;s a good chance you will die. Dead DPS do no DPS.\n Don\u0026rsquo;t stand in front of the boss It\u0026rsquo;s a good way to get cleaved or tankbustered and die. Dead DPS do no DPS.\n If you\u0026rsquo;re ranged, stay near healer  Healers have heals that are mostly centered around themselves (there are exceptions), but this helps them to be able to do top ups quickly from raidwides.\n If you decide to stay as far from everyone as possible, do not be surprised if a healer lets you die. Dead DPS do not DPS.\n Know your interupts! This cannot be stressed enough. Know what types of interrupts you have!\n Surecast and Arm\u0026rsquo;s Length are your friend! Surecast (Casters) and Arm\u0026rsquo;s Length (Physical DPS) can be used during some mechanics to allow you to stay in place and finish a cast, or combo!\n "
@@ -427,7 +427,7 @@
 	"content": "Tankbuster An attack, or quick series of attacks, that does immense damage. Must be mitigated through!\nSome tankbusters are shared, either between the Main and Off Tank, or the whole party!\n "
 },
 {
-	"uri": "https://www.spicychicken.quest/guides/sproots/tanks/",
+	"uri": "https://www.spicychicken.quest/sproots/tanks/",
 	"title": "Tanks",
 	"tags": [],
 	"description": "",
@@ -452,7 +452,7 @@
 	"title": "Changelog",
 	"tags": [],
 	"description": "",
-	"content": "   v0.6 Press F for PC    Content  Modified how things are structured Group content is getting a rework and templatedededed Sproot tips are moved into roles now to make things a little easier to view Hid things, revealed things Added a glossary cause that may be important. Maybe.   Contributors  Must track all the amazing people        v0.5.1 Coffee Biscuit    Visuals  Dark Mode. It is here.   Content  Added changelog Added new sections: This is not the final form.      "
+	"content": "   v0.6. Sproots Love    Content  Moved Roles to be more in your face Modified glossary        v0.6 Press F for PC    Content  Modified how things are structured Group content is getting a rework and templatedededed Sproot tips are moved into roles now to make things a little easier to view Hid things, revealed things Added a glossary cause that may be important. Maybe.   Contributors  Must track all the amazing people        v0.5.1 Coffee Biscuit    Visuals  Dark Mode. It is here.   Content  Added changelog Added new sections: This is not the final form.      "
 },
 {
 	"uri": "https://www.spicychicken.quest/tirzah/css-test/",

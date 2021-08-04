@@ -3,6 +3,7 @@ title: "Visual Guide to Mechanics"
 date: 2021-07-25T17:12:38+01:00
 draft: false
 weight: 1
+pre: "<img src=\"/images/achievements.png\" height=25px width=25px> "
 ---
  
 
