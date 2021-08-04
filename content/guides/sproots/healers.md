@@ -23,6 +23,7 @@ As long as they enough health to survive the tankbuster or raidwide, they are fi
 {{% notice info %}}
 You can tell something is removable by Esuna by the debuff icon. Small blue line over the debuff means you can cleanse it. 
 {{% /notice %}}
+
 | Removable by Esuna | Not Removable by Esuna |
 | --- | --- |
 | ![removable](/images/removable.jpg) | ![not-removable](/images/not-removable.jpg) |
@@ -33,7 +34,7 @@ It's not always worth it to **Esuna** a debuff. You can lose valuable DPS time a
 
 ### Know who and when to bring someone back to life
 {{% notice warning %}}
-Following mechanics are more important than picking someone up who died!
+Following mechanics is more important than picking someone up who died!
 {{% /notice %}}
 
 {{% notice info %}}
