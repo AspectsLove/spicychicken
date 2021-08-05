@@ -22,21 +22,16 @@ url = "/tags"
 weight = 30
 
 [[menu.shortcuts]]
+name="📑 Git Involved"
+url = "/git-involved/"
+weight = 40
+
+[[menu.shortcuts]]
 name="🙋 Suggestions"
 url = "/feedback"
-weight = 40
+weight = 50
 
 [[menu.shortcuts]]
 name="❤️ Contributors"
 url = "/contributors"
-weight = 40
-
-[[menu.shortcuts]]
-name="📑 changelog"
-url = "/changelog"
-weight = 50
-
-[[menu.shortcuts]]
-name = "<img src=\"/images/mentor.png\" height=25px width=25px> Tirzah Grant"
-url = "/tirzah"
 weight = 60

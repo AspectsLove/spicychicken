@@ -28,13 +28,6 @@
 	"content": "Limit Break is your friend! You can find the action Limit Break in your \u0026ldquo;Actions \u0026amp; Traits\u0026rdquo; window, under \u0026ldquo;General\u0026rdquo;.\n Generally speaking, Limit Break is saved for the last boss for the DPS to use when the boss hits 10% health. This changes as you get further into trials / dungeons / etc. There are unique trials that require the use of LB3 by specific roles in certain circumstances.\n Death Happens If you die in battle\u0026hellip;\n  \u0026hellip;and are raised/revived/etc during combat: DO NOT: CAST, PERFORM AN ACTION, PERFORM A WEAPONSKILL. You have a few seconds of invulnerability. Give the healer a chance to heal you back up. \u0026hellip;you will get a weakness debuff. This means your main stat (STR, DEX, INT, MIND) is reduced by 25%. If you die again while under the weakness effect, you get the Brink of Death debuff which reduces those stats down by 50%.  Know your interrupts! You can find most interrupts in your \u0026ldquo;Actions \u0026amp; Traits\u0026rdquo; window under the section \u0026ldquo;Role\u0026rdquo;\n You have to test to find out which stuns / interrupts work. General rule of thumb, is the left castbar can be stunned or interrupted, and the right may be stunable.\n There are two types of cast bars, as seen below.    Interruptable This may be stunnable          The different types of interrupts    Interrupt Icon Name Role that uses it What it does      Leg Sweep NIN, DRG, MNK, SAM Stuns    Head Graze BRD, MCH, DNC Spell Interrupt    Low Blow DRK, PLD, WAR, GNB Stuns    Interject DRK, PLD, WAR, GNB Spell Interrupt    Shield Bash PLD Stun: It requires planning as it is on the GCD    Repose WHM, SCH, AST Sleep (counts as a stun): but requires cast time or Swiftcast; rarely used in dungeons, trials, etc    Sleep BLM Sleep (counts as a stun): requires cast time or Swiftcast; rarely used in dungeons, trials, etc    Know your puddles! These will heal you and/or reduce damage taken!\n    White Mage Scholar Astrologian Astrologian           Heals those in it Heals / Mitigates Heals / Does Damage Heals / Mitigates    These do damage to enemies when they stand in it!\n    Ninja Dark Knight Summoner          Does damage to targets in it Does damage to targets in it Does damage to targets in it    "
 },
 {
-	"uri": "https://www.spicychicken.quest/guides/sproots/",
-	"title": "Roles",
-	"tags": [],
-	"description": "",
-	"content": "Classes, Jobs, Roles Sproot Tips Select your role for quick tips:\n Everyone   DPS   Healers   Tanks   Visual Guide to Mechanics    "
-},
-{
 	"uri": "https://www.spicychicken.quest/guides/",
 	"title": "Guides",
 	"tags": [],
@@ -203,6 +196,13 @@
 	"content": "Gotta Catch Em All Collectables From mounts, to minions, to cards, these are still needed.\n"
 },
 {
+	"uri": "https://www.spicychicken.quest/git-involved/",
+	"title": "Git Involved",
+	"tags": [],
+	"description": "",
+	"content": "So you want to help? How to Git Involved with SpicyChicken.Quest Everything you need to know to get started!\nYou do not need to have experience with Hugo, Markdown, VSCode, Git, or GitKraken to get involved. We break it all down for you!\n  Hugo   "
+},
+{
 	"uri": "https://www.spicychicken.quest/glossary/",
 	"title": "Glossary",
 	"tags": [],
@@ -242,7 +242,7 @@
 	"title": "Relics",
 	"tags": [],
 	"description": "",
-	"content": "All the Glamour Tirzah\u0026rsquo;s Relic    Job Relic Zenith Atma Animus Novus Nexus Zodiac Zeta     Paladin           Warrior           Monk           Dragoon           Ninja           Bard           Black Mage           Summoner The Veil of Wiyu X X X X X X X   Scholar X X X     X   White Mage X X X X X X X X    Level 60 Progress Level 70 Progress Level 80 Progress DoW / DoM To be effient, have 5 quests running at once to ensure that you get everything all the time from all the things.\n For Want of a Memory (BSF, HW Fates) SAM The Will to Resist (Antitower) Change of Arms (CT, CLL, CE BSF) AST / MCH / RDM A New Path of Resistance (DR) DNC Irresistible (DR, Dalraida, LVL 70 Dungeon, HoH ) SCH Done: WHM      Job Resistance Augmented Resistence Recollection Law\u0026rsquo;s Order Augmented Law\u0026rsquo;s Order Blade\u0026rsquo;s     Paladin Honorbound/Tenacity Aug. Honorbound/Tenacity Honor/Tenacity Recollection Bastard Sword/Kite Shield     Warrior Skullrender Aug. Skullrender Skullrender Recollection Labrys     Dark Knight Woeborn Aug. Woeborn Woeborn Recollection Zweihander     Gunbreaker Crownsblade Aug. Crownsblade Crownsblade Recollection Manatrigger     Monk Samsara Aug. Samsara Samsara Recollection Knuckles     Dragoon Dreizack Aug. Dreizack Dreizack Recollection Spear     Ninja Honeshirazu Aug. Honeshirazu Honeshirazu Recollection Knives     Samurai Hoshikiri Aug. Hoshikiri Hoshikir Recollection Samurai Blade     Bard Brilliance Aug. Brilliance Brilliance Recollection Composite Bow     Machinist Lawman Aug. Lawman Lawman Recollection Revolver     Dancer Enchufla Aug. Enchufla Enchufla Recollection Chakrams     Black Mage Soulscourge Aug. Soulscourge Soulscourge Recollection Rod     Summoner Espiritus Aug. Espiritus Espiritus Recollection Index     Red Mage Talekeeper ~Aug. Talekeeper~ Talekeeper Recollection Rapier     Scholar Akademos Aug. Akademos Akademos Recollection Cane Aug Cane Blade\u0026rsquo;s Mercy   White Mage Ingrimm Aug. Ingrimm Ingrimm Recollection Codex Aug Codex    Astrologian Solstice Aug. Solstice Solstice Recollection Astrometer      "
+	"content": "All the Glamour Tirzah\u0026rsquo;s Relic    Job Relic Zenith Atma Animus Novus Nexus Zodiac Zeta     Paladin           Warrior           Monk           Dragoon           Ninja           Bard           Black Mage           Summoner The Veil of Wiyu X X X X X X X   Scholar X X X     X   White Mage X X X X X X X X    Level 60 Progress Level 70 Progress Level 80 Progress DoW / DoM To be effient, have 5 quests running at once to ensure that you get everything all the time from all the things.\n For Want of a Memory (BSF, HW Fates) SAM The Will to Resist (Antitower) Change of Arms (CT, CLL, CE BSF) AST / MCH / RDM A New Path of Resistance (DR) DNC Irresistible (DR, Dalraida, LVL 70 Dungeon, HoH ) SCH Done: WHM      Job Resistance Augmented Resistence Recollection Law\u0026rsquo;s Order Augmented Law\u0026rsquo;s Order Blade\u0026rsquo;s     Paladin Honorbound/Tenacity Aug. Honorbound/Tenacity Honor/Tenacity Recollection Bastard Sword/Kite Shield     Warrior Skullrender Aug. Skullrender Skullrender Recollection Labrys     Dark Knight Woeborn Aug. Woeborn Woeborn Recollection Zweihander     Gunbreaker Crownsblade Aug. Crownsblade Crownsblade Recollection Manatrigger     Monk Samsara Aug. Samsara Samsara Recollection Knuckles     Dragoon Dreizack Aug. Dreizack Dreizack Recollection Spear     Ninja Honeshirazu Aug. Honeshirazu Honeshirazu Recollection Knives     Samurai Hoshikiri Aug. Hoshikiri Hoshikir Recollection Samurai Blade     Bard Brilliance Aug. Brilliance Brilliance Recollection Composite Bow     Machinist Lawman Aug. Lawman Lawman Recollection Revolver     Dancer Enchufla Aug. Enchufla Enchufla Recollection Chakrams     Black Mage Soulscourge Aug. Soulscourge Soulscourge Recollection Rod     Summoner Espiritus Aug. Espiritus Espiritus Recollection Index     Red Mage Talekeeper ~Aug. Talekeeper~ Talekeeper Recollection Rapier     Scholar Akademos Aug. Akademos Akademos Recollection Cane Aug Cane Blade\u0026rsquo;s Mercy   White Mage Ingrimm Aug. Ingrimm Ingrimm Recollection Codex Aug Codex    Astrologian Solstice Aug. Solstice Solstice Recollection Astrometer         Item Number How many I have Cost     Unidentifiable Bone 10 48 150 Poetics   Unidentifiable Shell 10 26 150 Poetics   Unidentifiable Ore 10 28 150 Poetics   Unidentifiable Seeds 10 21 150 Poetics   Adamantite Francesca 4 0 10K Grand Company Seals   Titanium Alloy Mirror 4 0 10K Grand Company Seals   Dispelling Arrow 4 0 10K Grand Company Seals   Kingcake 4 0 10K Grand Company Seals   Aether Oil 5 5 350 Poetics   Umbrites 60-80 368 75 Poetics   Crystal Sands 60-80 82    Singing Clusters 50 410 40 Poetics / Quests   Pneumites 15 107 100 Poetics   Archaic Enchanted Ink 1 6 500 Poetics    "
 },
 {
 	"uri": "https://www.spicychicken.quest/guides/links/",
@@ -336,6 +336,20 @@
 	"content": "The Farm Bozjan Southern Front  DR Savage  Zadnor Valor  Fortitude: 3 Valor: 6 Succor: 2  Field Notes needed  Number 12: For Absent Friends Number 38: Atrocities Number 44: Dalraida  Link  Lost Fragment Doc  Extra notes  Star Farm: Lost Death (1 use throwaway) + Sleep Sprite: Stormy weather + Lost Reflect Lost reflect/spirit of the guardian: Support - Sprites  Maps   BSF Star Locations       Zadnor Locations     Lysias  Licorice Kill Star Mobs Metal Fox chaos Trampled under hoof Where strode the behemoth Bojan Rider Gravekeeper  "
 },
 {
+	"uri": "https://www.spicychicken.quest/git-involved/hugo/",
+	"title": "Hugo",
+	"tags": [],
+	"description": "",
+	"content": "The SpicyChicken Quest website is build on the foundation of Hugo. For those techie, you read about it through the link before.\nFor everyone else, you do not need to know how it works, why it works, or what it does. The only thing you need to know is that it must be on your system in order for you to contribute to the website.\n "
+},
+{
+	"uri": "https://www.spicychicken.quest/sproots/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "https://www.spicychicken.quest/tags/arr/",
 	"title": "arr",
 	"tags": [],
@@ -417,7 +431,7 @@
 	"title": "Lvl60",
 	"tags": [],
 	"description": "",
-	"content": " Fabulous Guide: https://docs.google.com/spreadsheets/d/1bsHZM-0sSdaajAwILUPbUSOsMzDiCP7o4DGb3-gQTog/edit#gid=0\n Level 60 Progress Get these things FFXIV Teamcraft List https://ffxivteamcraft.com/list/0U7xOW23TWCq83EFCALd\n   Item Number How many I have Cost     Unidentifiable Bone 10 48 150 Poetics   Unidentifiable Shell 10 26 150 Poetics   Unidentifiable Ore 10 28 150 Poetics   Unidentifiable Seeds 10 21 150 Poetics   Adamantite Francesca 4 0 10K Grand Company Seals   Titanium Alloy Mirror 4 0 10K Grand Company Seals   Dispelling Arrow 4 0 10K Grand Company Seals   Kingcake 4 0 10K Grand Company Seals   Aether Oil 5 5 350 Poetics   Umbrites 60-80 368 75 Poetics   Crystal Sands 60-80 82    Singing Clusters 50 410 40 Poetics / Quests   Pneumites 15 107 100 Poetics   Archaic Enchanted Ink 1 6 500 Poetics    "
+	"content": " Fabulous Guide: https://docs.google.com/spreadsheets/d/1bsHZM-0sSdaajAwILUPbUSOsMzDiCP7o4DGb3-gQTog/edit#gid=0\n Level 60 Progress Get these things FFXIV Teamcraft List https://ffxivteamcraft.com/list/0U7xOW23TWCq83EFCALd\n"
 },
 {
 	"uri": "https://www.spicychicken.quest/relics/lvl50/",

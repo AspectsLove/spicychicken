@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git Involved on Spicy Chicken Quest</title>
+    <link>https://www.spicychicken.quest/git-involved/</link>
+    <description>Recent content in Git Involved on Spicy Chicken Quest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Aug 2021 00:26:52 +0100</lastBuildDate><atom:link href="https://www.spicychicken.quest/git-involved/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>https://www.spicychicken.quest/git-involved/hugo/</link>
+      <pubDate>Thu, 05 Aug 2021 00:35:41 +0100</pubDate>
+      
+      <guid>https://www.spicychicken.quest/git-involved/hugo/</guid>
+      <description>The SpicyChicken Quest website is build on the foundation of Hugo. For those techie, you read about it through the link before.
+For everyone else, you do not need to know how it works, why it works, or what it does. The only thing you need to know is that it must be on your system in order for you to contribute to the website.
+ </description>
+    </item>
+    
+  </channel>
+</rss>

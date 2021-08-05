@@ -14,9 +14,6 @@
     <loc>https://www.spicychicken.quest/sproots/everyone/</loc>
     <lastmod>2021-07-20T22:11:34+01:00</lastmod>
   </url><url>
-    <loc>https://www.spicychicken.quest/sproots/</loc>
-    <lastmod>2021-07-20T22:06:47+01:00</lastmod>
-  </url><url>
     <loc>https://www.spicychicken.quest/guides/</loc>
     <lastmod>2021-06-13T21:25:00+01:00</lastmod>
   </url><url>
@@ -89,6 +86,9 @@
     <loc>https://www.spicychicken.quest/tirzah/collections/</loc>
     <lastmod>2021-06-05T04:38:04+01:00</lastmod>
   </url><url>
+    <loc>https://www.spicychicken.quest/git-involved/</loc>
+    <lastmod>2021-08-05T00:26:52+01:00</lastmod>
+  </url><url>
     <loc>https://www.spicychicken.quest/glossary/</loc>
     <lastmod>2021-07-27T01:14:24+01:00</lastmod>
   </url><url>
@@ -145,6 +145,13 @@
   </url><url>
     <loc>https://www.spicychicken.quest/tirzah/farm/</loc>
     <lastmod>2021-06-07T01:49:24+01:00</lastmod>
+  </url><url>
+    <loc>https://www.spicychicken.quest/git-involved/hugo/</loc>
+    <lastmod>2021-08-05T00:35:41+01:00</lastmod>
+  </url><url>
+    <loc>https://www.spicychicken.quest/sproots/</loc>
+    <lastmod>2021-07-25T17:12:38+01:00</lastmod>
+    <priority>0</priority>
   </url><url>
     <loc>https://www.spicychicken.quest/tags/arr/</loc>
     <lastmod>2021-07-23T03:48:41+01:00</lastmod>
