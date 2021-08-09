@@ -13,7 +13,7 @@ The intent of this website is to offer quick look guides for new players. It is 
 
 {{% notice note %}}
 Yes, we're still under construction! However, we still have some good guides for sproots!
-{{% notice %}}
+{{% /notice %}}
 
 
 
