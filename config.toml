@@ -14,7 +14,12 @@ showVisitedLinks = true
 disableSearch = false
 themeVariant = "mine"
 
-landingPageName = "<strong>♥</strong> Home"
+landingPageName = "❤️ Home ❤️"
+
+[[menu.shortcuts]]
+name = "🗺️ FFXIV Hunt Log Path Finder"
+url = "https://hunts.spicychicken.quest"
+weight = 20
 
 [[menu.shortcuts]]
 name = "<i class='fas fa-tags'></i> Tags"
@@ -25,6 +30,11 @@ weight = 30
 name="📑 Git Involved"
 url = "/git-involved/"
 weight = 40
+
+[[menu.shortcuts]]
+name="📑 Changelog"
+url = "/changelog/"
+weight = 41
 
 [[menu.shortcuts]]
 name="🙋 Suggestions"
