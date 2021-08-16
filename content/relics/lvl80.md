@@ -206,3 +206,6 @@ All off the fishes will be collectables.The Thresholds are as followed.
 | 126-295 | [Flintstrike](https://ffxiv.gamerescape.com/wiki/Flintstrike ) | 1 Oddly Delicate Fishing Rod Part |
 | 296-304 | [Flintstrike](https://ffxiv.gamerescape.com/wiki/Flintstrike) | 2  Oddly Delicate Fishing Rod Part|
 | 305+ | [Flintstrike](https://ffxiv.gamerescape.com/wiki/Flintstrike) | 4 Oddly Delicate Fishing Rod Part |
+| 62-146 | [Pickled Pom](https://ffxiv.gamerescape.com/wiki/Pickled_Pom) | Oddly Delicate Fishing Reel Part |
+| 147-151 | [Pickled Pom](https://ffxiv.gamerescape.com/wiki/Pickled_Pom) | Oddly Delicate Fishing Reel Part |
+| 152+ | [Pickled Pom](https://ffxiv.gamerescape.com/wiki/Pickled_Pom) | Oddly Delicate Fishing Reel Part |
