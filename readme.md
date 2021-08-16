@@ -6,7 +6,7 @@
 
 -----
 ## Installation
-
+See "Git Involved" link on site.
 
 ## Additional Hugo Functions
 In addition to the usual Hugo commands, there are a few extra ones found in this specific theme. Some are from Learn itself, others are hand developed for this specific purpose and site. 
