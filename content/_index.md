@@ -11,8 +11,10 @@ weight: 9
 
 The intent of this website is to offer quick look guides for new players. It is still under development as this is a living, breathing set of guides. Check back or [get involved](/feedback)!
 
-{{% notice note %}}
 Yes, we're still under construction! However, we still have some good guides for sproots!
+
+{{% notice note %}}
+We've decided to host and start working on FFXIV Hunt's Path Finder as well! Check it out to the left!
 {{% /notice %}}
 
 
