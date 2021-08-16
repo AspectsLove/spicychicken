@@ -12,4 +12,3 @@ pre = "<img src=\"/images/achievements.png\" height=25px width=25px> "
 
 There are some specific achievements to work towards.
 
- xd
