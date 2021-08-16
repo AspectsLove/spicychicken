@@ -3,7 +3,7 @@ title: "70: The Royal Menagerie"
 date: 2021-08-04T18:16:51+01:00
 draft: true
 weight: 20
-tags: ['trial', 'stormblood', 'normal']
+tags: ["trial", "stormblood", "normal"]
 ---
 [Link to detailed guide for dungeon](#)
 

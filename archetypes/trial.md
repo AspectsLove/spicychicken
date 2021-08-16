@@ -3,7 +3,7 @@ title: "Lvl: Trial Name"
 date: {{ .Date }}
 draft: true
 weight: 20
-tags: ['trial']
+tags: ["trial"]
 ---
 [Link to detailed guide for dungeon](#)
 

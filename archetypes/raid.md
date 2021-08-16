@@ -3,7 +3,7 @@ title: "50: The Labyrinth of the Ancients"
 date: {{ .Date }}
 draft: true
 weight: 20
-tags: ['raid', '24man']
+tags: ["raid", "24man"]
 ---
 [Link to detailed guide for dungeon](#)
 

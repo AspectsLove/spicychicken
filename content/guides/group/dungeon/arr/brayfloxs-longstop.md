@@ -4,7 +4,7 @@ date: 2021-07-23T04:04:46+01:00
 draft: true
 
 weight: 7
-tags: ['dungeon']
+tags: ["dungeon"]
 ---
 [Link to detailed guide for dungeon](#)
 

@@ -4,7 +4,7 @@ date: 2021-07-23T03:45:50+01:00
 draft: false
 
 weight: 2
-tags: ['dungeon', 'arr']
+tags: ["dungeon", "arr"]
 ---
 [Link to detailed guide for dungeon](https://ffxiv.consolegameswiki.com/wiki/The_Tam-Tara_Deepcroft)
 

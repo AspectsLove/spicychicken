@@ -4,7 +4,7 @@ date: 2021-07-20T23:26:52+01:00
 draft: false
 
 weight: 1
-tags: ['dungeon','arr']
+tags: ["dungeon","arr"]
 ---
 
 [IF YA WANT A MORE DETAILED GUIDE GO HERE](https://ffxiv.consolegameswiki.com/wiki/Sastasha)

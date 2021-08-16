@@ -3,7 +3,7 @@ title: "50: The Labyrinth of the Ancients"
 date: 2021-08-04T13:18:31+01:00
 draft: true
 weight: 20
-tags: ['raid']
+tags: ["raid"]
 ---
 [Link to detailed guide for dungeon](#)
 
