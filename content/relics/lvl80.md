@@ -210,3 +210,4 @@ All off the fishes will be collectables.The Thresholds are as followed.
 | 147-151 | [Pickled Pom](https://ffxiv.gamerescape.com/wiki/Pickled_Pom) | Oddly Delicate Fishing Reel Part |
 | 152+ | [Pickled Pom](https://ffxiv.gamerescape.com/wiki/Pickled_Pom) | Oddly Delicate Fishing Reel Part |
  
+rofl
