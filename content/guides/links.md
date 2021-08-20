@@ -23,7 +23,7 @@ pre: "🔗 "
 * [Garland Tools](https://www.garlandtools.org/)
 * [FFXIV Chocobo Racing – A guide for all skill levels](https://ffxivchocoboracing.wordpress.com/)
 * [Progression and Level Locked Content – Gamer Escape: Gaming News, Reviews, Wikis, and Podcasts](https://ffxiv.gamerescape.com/wiki/Guide:Progression_and_Level_Locked_Content)
-* [FFXIV Hunts Path Finder](http://www.ffxivhuntspath.com/hw/#)
+* [FFXIV Hunts Path Finder](https://hunts.spicychicken.quest/home/)
 * [FFXIV Squadron](http://ffxivsquadron.com/)
 * [Sightseeing Log Helper](https://tylian.net/sslog/)
 * [Eorzea Collection](https://ffxiv.eorzeacollection.com/)
