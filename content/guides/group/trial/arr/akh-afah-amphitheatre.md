@@ -1,11 +1,11 @@
 ---
-title: "50: Akh Afah Amphitheatre (Shiva)"
+title: "50: Akh Afah Amphitheatre [Extreme]"
 date: 2021-08-20T03:26:29+01:00
 draft: false
 weight: 20
 tags: ["trial"]
 ---
-[Link to detailed guide for dungeon](https://ffxiv.consolegameswiki.com/wiki/Akh_Afah_Amphitheatre_(Extreme))
+[Link to detailed guide for trial](https://ffxiv.consolegameswiki.com/wiki/Akh_Afah_Amphitheatre_(Extreme))
 
 ## Special Loot
 
@@ -15,7 +15,7 @@ Diamond Dust, Shiva Card
 
 ## The Fight!
 {{% notice tip %}}
-There is a lot of to dodge, so pay attention to the circles on the ground, avoid the edge to prevent being turned into a popsicle that must be freed by people.
+There is a lot of circles to dodge, so pay attention to the circles on the ground and always look for a safe spot. 
 {{% /notice %}}
 
 ## Phase One: Weapon Abilities
@@ -26,7 +26,7 @@ There is a lot of to dodge, so pay attention to the circles on the ground, avoid
 {{% /notice %}}
 
 {{% notice tip %}}
-**Hail Storm**: When she changes into Staff, spread out for hall storm. AoE around targets.
+**Hail Storm**: When she changes into Staff, spread out for hall storm. AoE around targets. Set up groups of 2 so you can spread out to 1 of the 4 safe spots while everyone has hail storm circles and the arena spawns circles. 
 {{% /notice %}}
 
 {{% notice note %}}
@@ -38,12 +38,14 @@ There is a lot of to dodge, so pay attention to the circles on the ground, avoid
 **Sword Form**: Attacks put debuff on whoever is hit that descreases resistence to blunt attacks.
 {{% /notice %}}
 
+##### She follows this order with her attacks while the Sword is out
+
 {{% notice tip %}}
 **1. Icebrand**: This is a **party** shared tankbuster. Spin her around to share the love.
 {{% /notice %}}
 
 {{% notice tip %}}
-**2. Glacier Bash**: This can be avoided by having th tank run through Shiva.
+**2. Glacier Bash**: This can be avoided by having the tank run through Shiva.
 {{% /notice %}}
 
 {{% notice note %}}
@@ -56,7 +58,7 @@ There is a lot of to dodge, so pay attention to the circles on the ground, avoid
 
 ## Phase Two: The Adds
 {{% notice warning %}}
-Pay attention to what weapon she brings out as you may need to handle **Icebrand**. If **sword** is out, she will do a **Heavenly Strike** without whiteout from above.
+Shiva pulls out the sword during this. You must deal with **Icebrand**. She will do also do a  **Heavenly Strike** without whiteout, so be close!
 {{% /notice %}}
 
 {{% notice tip %}}
@@ -65,6 +67,10 @@ Those adds must die asap.
 
 ## Phase Three: The Ice Arena
 #### Bow Form Added to her Aresenal
+{{% notice note %}}
+You should avoid the edge to prevent being turned into a popsicle that must be freed by people.
+{{% /notice %}}
+
 {{% notice warning %}}
 **Glass Dance**: **Everyone** stands behind her to avoid the damage. It's a 270 degree cone, so hug her bum.
 {{% /notice %}}
