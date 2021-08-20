@@ -7,6 +7,8 @@ tags: ["trial"]
 ---
 [Link to detailed guide for trial](https://ffxiv.consolegameswiki.com/wiki/Akh_Afah_Amphitheatre_(Extreme))
 
+While you're in there, try and find one of the only snowmen made out of 3 balls of snow intead of 2!
+
 ## Special Loot
 
 {{% notice info %}}
