@@ -11,8 +11,14 @@ This repo was made with love using [GitKraken Client](https://www.gitkraken.com/
 -----
 **Documentation In Progress**
 ## Installation
-See "Git Involved" link on site.
 
+
+## Git Involved
+If you are interested in getting involved, reach out using one of the following methods:
+
+* FFXIV game: Contact Tirzah Grant on Chaos Datacenter, Omega.
+* Email: tirzahgrant@protonmail.com
+* Issue: Create an issue ;)
 
 ## Additional Hugo Functions
 In addition to the usual Hugo commands, there are a few extra ones found in this specific theme. Some are from Learn itself, others are hand developed for this specific purpose and site. 
