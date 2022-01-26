@@ -5,6 +5,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bfdb8bad-e549-439c-a60b-0767bd2762e6/deploy-status)](https://app.netlify.com/sites/spicychicken/deploys)
 
 -----
+**Documentation In Progress**
 ## Installation
 See "Git Involved" link on site.
 
