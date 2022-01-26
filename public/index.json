@@ -1,5 +1,12 @@
 [
 {
+	"uri": "https://www.spicychicken.quest/git-involved/putting-it-together/",
+	"title": "Putting It Together",
+	"tags": [],
+	"description": "",
+	"content": " This guide is still under development.\n These are Tirzah\u0026rsquo;s recommend order of operations for git-ting involved with SpicyChicken Quest  Get Hugo. Get a GitHub account. Contact Tirzah. Grab GitKraken. Pull the repository. Open VSCode Open the folder where you put the repo. Open a terminal in VSCode and type hugo server Visit https://localhost:1313/ and think about what you want to add to make this an even better guide!  "
+},
+{
 	"uri": "https://www.spicychicken.quest/guides/group/dungeon/arr/sastasha/",
 	"title": "15: Sastasha",
 	"tags": ["dungeon", "arr"],
@@ -35,6 +42,13 @@
 	"content": "So you need help eh? Helpful Things Rule 1 of Mentor Club:\nIf you have a crown, do what you can to help. Otherwise turn it off.\nRule 2 of Mentor Club:\nThere is so much content in this game and mentors can end up anywhere.\nIf you find a mentor who can\u0026rsquo;t answer every single questions, it does not make them a bad mentor.\nThey should be able to point you in a good direction though.\nTopics  Group Content   Crafting   Helpful Links   "
 },
 {
+	"uri": "https://www.spicychicken.quest/sproots/",
+	"title": "Sproot Guides",
+	"tags": [],
+	"description": "",
+	"content": "So you need help eh? Guides for Sproots "
+},
+{
 	"uri": "https://www.spicychicken.quest/guides/group/dungeon/",
 	"title": "Dungeon",
 	"tags": [],
@@ -47,6 +61,13 @@
 	"tags": [],
 	"description": "",
 	"content": "The Long Game Achievements There are some specific achievements to work towards.\n"
+},
+{
+	"uri": "https://www.spicychicken.quest/git-involved/hugo/",
+	"title": "Hugo",
+	"tags": [],
+	"description": "",
+	"content": " This guide is still under development.\n The SpicyChicken Quest website is build on the foundation of Hugo. For those techie, you read about it through the link before.\nFor everyone else, you do not need to know how it works, why it works, or what it does. The only thing you need to know is that it must be on your system in order for you to contribute to the website.\n Why did I choose Hugo? I knew I wanted as many people as possible to be able to contribute, but I wanted to do it in a way that expanded knowledge and opened up the world of programming / contributing / etc to others. The fact that people can just make pages and design them with Markdown seriously appealed. Add in that it\u0026rsquo;s a static site and it makes my inner Darth Securitas feel much better.\nAdd in the fact that it is very easy to do localisation and it means that people can translate as well! Gotta love that!\nHow to Hugo? As stated above, you need to have Hugo on your system in order for you to easily check changes as you contribute. This guide is intended (for the moment) for those on Windows and who have zero knowledge on how to do this crazy thing called Hugo.\nStep 1: Get the Hugo version that best fits you!  Head over to Hugo\u0026rsquo;s Releases on Github. Scroll down till you see the list of Assets and find the one for your version of Windows! Download the zip file. Extract the contents to a location of your choosing. It will have a readme, License and hugo.exe (the real powerhouse of what we do).  Step 2: Tell Windows where to find Hugo  Go to the Windows Start button and do a search for \u0026ldquo;Edit the System Enviornment Settings\u0026rdquo;. We need to tell Windows how to find hugo.exe! In the System Properties window, select Enviornment Variables (bottom right of Advanced tab) Select the user variable \u0026ldquo;Path\u0026rdquo; and click \u0026ldquo;Edit\u0026hellip;\u0026rdquo; Click \u0026ldquo;Browse\u0026hellip;\u0026rdquo; and navigate to the folder you put hugo.exe in. Click \u0026ldquo;Okay\u0026rdquo; Then you can click Ok to get out of all the variables and settings for your system.  Step 3: Oh yeeah!  Celebrate!  "
 },
 {
 	"uri": "https://www.spicychicken.quest/guides/group/dungeon/arr/tam-tara-deepcroft/",
@@ -96,6 +117,13 @@
 	"tags": [],
 	"description": "",
 	"content": "The Grind Relics This is all about relic grinding for glamours and \u0026hellip; maybe upgrades.\n Lvl80   Lvl70   Lvl60   Lvl50   "
+},
+{
+	"uri": "https://www.spicychicken.quest/git-involved/github/",
+	"title": "Github",
+	"tags": [],
+	"description": "",
+	"content": " This guide is still under development.\n Why GitHub? It\u0026rsquo;s easy for people to contribute, has versioning, and is generally just great. Yes, some people do not like that it\u0026rsquo;s part of the Microsoft family, but honestly, it\u0026rsquo;s perfectly fine for a project like this.\n"
 },
 {
 	"uri": "https://www.spicychicken.quest/guides/group/dungeon/arr/copperbell-mines/",
@@ -154,6 +182,13 @@
 	"content": "They Like Me! Reputation   ARR    Amalj\u0026rsquo;aa: Neutral Sylphs: Neutral Kobolds: Recognized Sahagin: Friendly Ixal: Sworn      Heavensward    Vanu Vanu: Honored Vath: Bloodsworn Moogles: Sworn      Stormblood [COMPLETE]    Vanu Vanu: Allied Vath: Allied Moogles: Allied      Shadowbringers [COMPLETE]    Dwarves: Bloodsworn Qitari: Bloodsworn Pixies: Bloodsworn    "
 },
 {
+	"uri": "https://www.spicychicken.quest/git-involved/git-kraken/",
+	"title": "Git Kraken",
+	"tags": [],
+	"description": "",
+	"content": " This guide is still under development.\n QuickLink to Tirzah\u0026rsquo;s Referral Link for GitKraken\nWhy do I recommend using GitKraken? The answer to this is multifold:\n It\u0026rsquo;s a very easy tool to start learning git and versioning. It\u0026rsquo;s easy to teach someone how to pull, push, branch, fork, merge, do pull requests, etc. It\u0026rsquo;s exceptional for those new to the world of git allowing anyone to git involved in a project! It has a very beautiful interface. It\u0026rsquo;s got the most magnificent mascot in the form of Keif! The team even made a version of Keif as Ada Lovelace for her. swoon Tirzah is a damn proud Ambassador of GitKraken.  "
+},
+{
 	"uri": "https://www.spicychicken.quest/guides/group/raid/shadowbringers/",
 	"title": "Shadowbingers",
 	"tags": [],
@@ -196,11 +231,18 @@
 	"content": "Gotta Catch Em All Collectables From mounts, to minions, to cards, these are still needed.\n"
 },
 {
+	"uri": "https://www.spicychicken.quest/git-involved/vscode/",
+	"title": "VS Code",
+	"tags": [],
+	"description": "",
+	"content": " This guide is still under development.\n "
+},
+{
 	"uri": "https://www.spicychicken.quest/git-involved/",
 	"title": "Git Involved",
 	"tags": [],
 	"description": "",
-	"content": "So you want to help? How to Git Involved with SpicyChicken.Quest Everything you need to know to get started!\nYou do not need to have experience with Hugo, Markdown, VSCode, Git, or GitKraken to get involved. We break it all down for you!\n  Hugo   "
+	"content": " This guide is still under development.\n So you want to help? How to Git Involved with SpicyChicken.Quest Everything you need to know to get started!\nYou do not need to have experience with coding, Hugo, Markdown, VSCode, Git, or GitKraken to get involved. We break it all down for you!\n  Putting It Together   Hugo   Github   Git Kraken   VS Code   Markdown   "
 },
 {
 	"uri": "https://www.spicychicken.quest/glossary/",
@@ -294,6 +336,13 @@
 	"content": "Best Friends Trust Current dungeon Dohn Mheg\n  Alphinaud: 74 Alisaie: 74 Thancred: 75 Urianger: 74 Y\u0026rsquo;shtola: 74 Ryne: 74 G\u0026rsquo;raha Tia: 80  Squardron Website for modifying Squadron: http://ffxivsquadron.com/ {{ /notice}}\n "
 },
 {
+	"uri": "https://www.spicychicken.quest/git-involved/markdown/",
+	"title": "Markdown",
+	"tags": [],
+	"description": "",
+	"content": " This guide is still under development.\n What is Markdown? It\u0026rsquo;s a very quick way to add visual structure to lines of text!\nYou do not need to know how to code to use Markdown! You just need to know how to write words!\n Quick Guide to Markdown in Hugo Headers Text Tables Images Are there more fancy things? Hell yeah there are. But for now, let\u0026rsquo;s keep it very simple.\n"
+},
+{
 	"uri": "https://www.spicychicken.quest/guides/group/dungeon/endwalker/",
 	"title": "Endwalker",
 	"tags": [],
@@ -326,7 +375,7 @@
 	"title": "FFXIV Tips, Tricks, &amp; More",
 	"tags": [],
 	"description": "",
-	"content": "Welcome to SpicyChicken Quest The intent of this website is to offer quick look guides for new players. It is still under development as this is a living, breathing set of guides. Check back or get involved!\n \u0026ldquo;This site is literally just a goofball concept to track thoughts, notes, and tasks in FFXIV. That is all. Nothing more. Okay, well, it\u0026rsquo;s also a place for some quick guides and stuff\u0026hellip;\u0026rdquo; ♥♥ Tirzah\n "
+	"content": "Welcome to SpicyChicken Quest The intent of this website is to offer quick look guides for new players. It is still under development as this is a living, breathing set of guides. Check back or get involved!\nYes, we\u0026rsquo;re still under construction! However, we still have some good guides for sproots!\nWe\u0026rsquo;ve decided to host and start working on FFXIV Hunt\u0026rsquo;s Path Finder as well! Check it out to the left!\n  \u0026ldquo;This site is literally just a goofball concept to track thoughts, notes, and tasks in FFXIV. That is all. Nothing more. Okay, well, it\u0026rsquo;s also a place for some quick guides and stuff\u0026hellip;\u0026rdquo; ♥♥ Tirzah\n "
 },
 {
 	"uri": "https://www.spicychicken.quest/tirzah/farm/",
@@ -336,15 +385,22 @@
 	"content": "The Farm Bozjan Southern Front  DR Savage  Zadnor Valor  Fortitude: 3 Valor: 6 Succor: 2  Field Notes needed  Number 12: For Absent Friends Number 38: Atrocities Number 44: Dalraida  Link  Lost Fragment Doc  Extra notes  Star Farm: Lost Death (1 use throwaway) + Sleep Sprite: Stormy weather + Lost Reflect Lost reflect/spirit of the guardian: Support - Sprites  Maps   BSF Star Locations       Zadnor Locations     Lysias  Licorice Kill Star Mobs Metal Fox chaos Trampled under hoof Where strode the behemoth Bojan Rider Gravekeeper  "
 },
 {
-	"uri": "https://www.spicychicken.quest/git-involved/hugo/",
-	"title": "Hugo",
-	"tags": [],
+	"uri": "https://www.spicychicken.quest/guides/group/trial/arr/akh-afah-amphitheatre/",
+	"title": "50: Akh Afah Amphitheatre [Extreme]",
+	"tags": ["trial"],
 	"description": "",
-	"content": "The SpicyChicken Quest website is build on the foundation of Hugo. For those techie, you read about it through the link before.\nFor everyone else, you do not need to know how it works, why it works, or what it does. The only thing you need to know is that it must be on your system in order for you to contribute to the website.\n "
+	"content": "Link to detailed guide for trial\nWhile you\u0026rsquo;re in there, try and find one of the only snowmen made out of 3 balls of snow intead of 2!\nSpecial Loot Diamond Dust, Shiva Card\n The Fight! There is a lot of circles to dodge, so pay attention to the circles on the ground and always look for a safe spot.\n Phase One: Weapon Abilities Staff Form Staff Form: Attacks put debuff on whoever is hit that decreases resistence to slashing.\n Hail Storm: When she changes into Staff, spread out for hall storm. AoE around targets. Set up groups of 2 so you can spread out to 1 of the 4 safe spots while everyone has hail storm circles and the arena spawns circles.\n Raidwide without castbar: Called Absolute Zero\n Sword Form Sword Form: Attacks put debuff on whoever is hit that descreases resistence to blunt attacks.\n She follows this order with her attacks while the Sword is out 1. Icebrand: This is a party shared tankbuster. Spin her around to share the love.\n 2. Glacier Bash: This can be avoided by having the tank run through Shiva.\n 3. Whiteout: Be really close to her to prevent taking damage.\n 4. No cast bar Heavenly Strike: This performs a knockback so put your back to the center of the arena to avoid being made a popsicle on the edges.\n Phase Two: The Adds Shiva pulls out the sword during this. You must deal with Icebrand. She will do also do a Heavenly Strike without whiteout, so be close!\n Those adds must die asap.\n Phase Three: The Ice Arena Bow Form Added to her Aresenal You should avoid the edge to prevent being turned into a popsicle that must be freed by people.\n Glass Dance: Everyone stands behind her to avoid the damage. It\u0026rsquo;s a 270 degree cone, so hug her bum.\n Avalanche: Random person gets marker on head. The knockback can be mitigated with a big shield, Surecast, or Arm\u0026rsquo;s Length. However, it is worth having the marked person step out of the group to avoid knocking everyone back with them. If you choose to get knocked back, make sure you have plenty of room to be knocked back.\n Permafrost: Ground turns to ice and you will skate around the room if you move.\n "
 },
 {
-	"uri": "https://www.spicychicken.quest/sproots/",
-	"title": "",
+	"uri": "https://www.spicychicken.quest/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.spicychicken.quest/tags/trial/",
+	"title": "trial",
 	"tags": [],
 	"description": "",
 	"content": ""
@@ -359,13 +415,6 @@
 {
 	"uri": "https://www.spicychicken.quest/tags/dungeon/",
 	"title": "dungeon",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://www.spicychicken.quest/tags/",
-	"title": "Tags",
 	"tags": [],
 	"description": "",
 	"content": ""
@@ -410,14 +459,14 @@
 	"title": "Css Test",
 	"tags": [],
 	"description": "",
-	"content": "Use to test styles and variations on styles.\nh1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Lorem ipsum dolor sit amet, graecis denique ei vel, at duo primis mandamus. Et legere ocurreret pri, animal tacimates complectitur ad cum. Cu eum inermis inimicus efficiendi. Labore officiis his ex, soluta officiis concludaturque ei qui, vide sensibus vim ad.\nrendered as bold text\nrendered as italicized text\nStrike through this text.\n Fusion Drive combines a hard drive with a flash storage (solid-state drive) and presents it as a single logical volume with the space of both drives combined.\n  Lorem ipsum dolor sit amet Consectetur adipiscing elit Integer molestie lorem at massa Facilisis in pretium nisl aliquet Nulla volutpat aliquam velit  Phasellus iaculis neque Purus sodales ultricies Vestibulum laoreet porttitor sem Ac tristique libero volutpat at   Faucibus porta lacus fringilla vel Aenean sit amet erat nunc Eget porttitor lorem   Lorem ipsum dolor sit amet Consectetur adipiscing elit Integer molestie lorem at massa Facilisis in pretium nisl aliquet Nulla volutpat aliquam velit Faucibus porta lacus fringilla vel Aenean sit amet erat nunc Eget porttitor lorem  In this example, \u0026lt;section\u0026gt;\u0026lt;/section\u0026gt; should be wrapped as code.\n// Some comments line 1 of code line 2 of code line 3 of code  grunt.initConfig({ assemble: { options: { assets: \u0026#39;docs/assets\u0026#39;, data: \u0026#39;src/data/*.{json,yml}\u0026#39;, helpers: \u0026#39;src/custom-helpers.js\u0026#39;, partials: [\u0026#39;src/partials/**/*.{hbs,md}\u0026#39;] }, pages: { options: { layout: \u0026#39;default.hbs\u0026#39; }, files: { \u0026#39;./\u0026#39;: [\u0026#39;src/templates/pages/index.hbs\u0026#39;] } } } };    Option Description     data path to data files to supply the data that will be passed into templates.   engine engine to be used for processing templates. Handlebars is the default.   ext extension to be used for dest files.    Assemble\nUpstage\n  Expand me...   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n  graph LR; A[Hard edge] --|Link text| B(Round edge) B -- C{Decision} C --|One| D[Result one] C --|Two| E[Result two]  A notice disclaimer\n An information disclaimer\n A tip disclaimer\n A warning disclaimer\n "
+	"content": "Use to test styles and variations on styles.\nh1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading More testing Lorem ipsum dolor sit amet, graecis denique ei vel, at duo primis mandamus. Et legere ocurreret pri, animal tacimates complectitur ad cum. Cu eum inermis inimicus efficiendi. Labore officiis his ex, soluta officiis concludaturque ei qui, vide sensibus vim ad.\nrendered as bold text\nrendered as italicized text\nStrike through this text.\n Fusion Drive combines a hard drive with a flash storage (solid-state drive) and presents it as a single logical volume with the space of both drives combined.\n  Lorem ipsum dolor sit amet Consectetur adipiscing elit Integer molestie lorem at massa Facilisis in pretium nisl aliquet Nulla volutpat aliquam velit  Phasellus iaculis neque Purus sodales ultricies Vestibulum laoreet porttitor sem Ac tristique libero volutpat at   Faucibus porta lacus fringilla vel Aenean sit amet erat nunc Eget porttitor lorem   Lorem ipsum dolor sit amet Consectetur adipiscing elit Integer molestie lorem at massa Facilisis in pretium nisl aliquet Nulla volutpat aliquam velit Faucibus porta lacus fringilla vel Aenean sit amet erat nunc Eget porttitor lorem  In this example, \u0026lt;section\u0026gt;\u0026lt;/section\u0026gt; should be wrapped as code.\n// Some comments line 1 of code line 2 of code line 3 of code  grunt.initConfig({ assemble: { options: { assets: \u0026#39;docs/assets\u0026#39;, data: \u0026#39;src/data/*.{json,yml}\u0026#39;, helpers: \u0026#39;src/custom-helpers.js\u0026#39;, partials: [\u0026#39;src/partials/**/*.{hbs,md}\u0026#39;] }, pages: { options: { layout: \u0026#39;default.hbs\u0026#39; }, files: { \u0026#39;./\u0026#39;: [\u0026#39;src/templates/pages/index.hbs\u0026#39;] } } } };    Option Description     data path to data files to supply the data that will be passed into templates.   engine engine to be used for processing templates. Handlebars is the default.   ext extension to be used for dest files.    Assemble\nUpstage\n  Expand me...   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n  graph LR; A[Hard edge] --|Link text| B(Round edge) B -- C{Decision} C --|One| D[Result one] C --|Two| E[Result two]  A notice disclaimer\n An information disclaimer\n A tip disclaimer\n A warning disclaimer\n "
 },
 {
 	"uri": "https://www.spicychicken.quest/relics/lvl80/",
 	"title": "Lvl80",
 	"tags": [],
 	"description": "",
-	"content": "Level 80 Progress To be effient, have 5 quests running at once to ensure that you get everything all the time from all the things.\n For Want of a Memory (BSF, HW Fates) The Will to Resist (Antitower) Change of Arms (CT, CLL, CE BSF) A New Path of Resistance (DR) Irresistible (DR, Dalraida, LVL 70 Dungeon, HoH ) Done:   Steps Resistance First Free. Each additional one takes 4 Thavnairian Scalepowders (Cost 1000 Poetics)\n Augmented Resistence Quest: For Want of a memory. 20 each Memory of the Dying: Tortured, Sorrowful, Harrowing.\n  Tortured: Coerthas West High or Sea of Clouds; zone 1 of BSF Sorrowful: Dravanian Forelands or Churning Mists; zone 2 BSF Harrowing: Dravanian Hinterlands or Azys Lla; zone 3 of BSF  Recollection  Quest: The Will to Resist; 6 Bitter Memories of the Dying\n Best place to do this is BLU Antitower.\nLaw\u0026rsquo;s Order  Quest: Change of Arms; 15 Loathsome Memories of the Dying.\n Crystal Tower Spam / CLL / CE in BSF\nAugmented Law\u0026rsquo;s Order  Quest: A New Path of Resistance; 15 Timeworn Artifacts\n Just .. suck up the DR spam.\nBlade\u0026rsquo;s  Quest: Irresistible; 15 Raw Emotions\n Best to try and do Dalraida (3 dropped) and DR (2 dropped)\nDoH / DoL "
+	"content": "Level 80 Progress To be effient, have 5 quests running at once to ensure that you get everything all the time from all the things.\n For Want of a Memory (BSF, HW Fates) The Will to Resist (Antitower) Change of Arms (CT, CLL, CE BSF) A New Path of Resistance (DR) Irresistible (DR, Dalraida, LVL 70 Dungeon, HoH ) Done:   Steps Resistance First Free. Each additional one takes 4 Thavnairian Scalepowders (Cost 1000 Poetics)\n Augmented Resistence Quest: For Want of a memory. 20 each Memory of the Dying: Tortured, Sorrowful, Harrowing.\n  Tortured: Coerthas West High or Sea of Clouds; zone 1 of BSF Sorrowful: Dravanian Forelands or Churning Mists; zone 2 BSF Harrowing: Dravanian Hinterlands or Azys Lla; zone 3 of BSF  Recollection  Quest: The Will to Resist; 6 Bitter Memories of the Dying\n Best place to do this is BLU Antitower.\nLaw\u0026rsquo;s Order  Quest: Change of Arms; 15 Loathsome Memories of the Dying.\n Crystal Tower Spam / CLL / CE in BSF\nAugmented Law\u0026rsquo;s Order  Quest: A New Path of Resistance; 15 Timeworn Artifacts\n Just .. suck up the DR spam.\nBlade\u0026rsquo;s  Quest: Irresistible; 15 Raw Emotions\n Best to try and do Dalraida (3 dropped) and DR (2 dropped)\nDoH / DoL To start off with a Relictool, you must have completed the quest Towards the Firmament\n Once that is done, head to the Skysteel Engineer in Foundation. They can be found at X:14.2 Y:12.5 The quest you want to accept is \u0026ldquo;Mislaid Plans\u0026rdquo; Uppon compleation, you will get a Skysteel Prototype Coffer to get started!   If you want to start yet another Relictool.\n Head to Foundation and teleport to the Skysteel Manufactory Speak to Denys at X: 7.9 Y:10.0 Click on \u0026ldquo;Purchase Skysteel Prototypes\u0026rdquo; and get the tool you desire   Skysteel Prototype Augmentation To Augment your Skysteel tool as DOH, you must craft 20 spezific High Quality items, which can be seen at the Vendor by clicking \u0026ldquo;Skysteel Prototype Augmentation\u0026rdquo;.\nRecipes can be seen in the crafting log under \u0026ldquo;ishguard Resturation\u0026rdquo; and then under \u0026ldquo;Skysteel Tools\u0026rdquo;\n To Augment your Skysteel tool as Miner or Botanist, you must collect 460 High Quality items in total. And Fisher need to gather 40 HQ fishes. These can also be seen at the Vendor\nLocations of needed Materials can be found in the Gathering log under \u0026ldquo;Special\u0026rdquo; and then under \u0026ldquo;Skysteel Tools\u0026rdquo;\n Skysteel Prototype Augmentation +1 This step is almost the same as the one before!But the quantity increased for both tools\n DOH must now craft 30 High Quality items. Miner and botanist must now gather 690 High Quality items. And Fisher needs to gather 60 High Quality fish  Augmented Dragonsung Tools Now, DOL/DOH still have to craft a spezific item, but now you will have to exchange your crafted items for Gobbiegoo. It is also the Part where the Collectables start So the vaule of the Crafted Item matters!\nThe npc Nimie outside the Skysteel Manufactory will now have a quest for you! Ever Skyward\n Location: X:7.9 Y:10.6    Gobbiegoo is Job Spezific, so if you decide to make a Alchemist tool, you will recieve Alchemist\u0026rsquo;s Gobbiegoo There will be Items, that you need to buy for Yellow Crafters\u0026rsquo;Scips (Alternatively the Markedboard) Depending on how high your collectable score is, you will recieve a different amount of Gobbiegoo.   Augmented Dragonsung Tool DOH A Crafter will need to collect 90 pots of Gobbiegoo.The Thresholds for collectables looks as followed.\n   Collectability Received     2000-2999 2   3800 - 3999 3   4000+ 5    Augmented Dragonsung Tool DOL  Miner/Botanist needs to collect 50 pots of Gobbiegoo. 10 High Quailty Items can be exchanged for 1 pot of Gobbiegoo Fisher needs to collect 6 pots of Gobbiegoo. the Exchange rate is still 10 Items!  Skysung Tool This step doesnt differ to much from the step before.The quantity rose once again, and you are now going after Highly Viscous Gobbiegoo\nThere is a followup quest, called The Tools of Tomorrow at the same NPC as before.\n Skysung Tool DOH you will now need 105 pots of Highly Viscous Gobbiegoo. the Recipe will have another Material from the Scrip Vendor.The Thresholds for collectables looks as followed.\n   Collectability Received     3000-3799 2   3800-4599 3   4600+ 5    Skysung tool DOL  Miner/Botanist will now need to get 60 pots of Highly Viscous Gobbiegoo. The exchange rate remains 10 Fisher will need 7 pots of Highly Viscous Gobbiegoo. They have the same exchange rate as before  These Materials are not always obtainable, they are now a \u0026ldquo;hidden\u0026rdquo; Item\u0026quot;\n Skybuilder tool The final step to obtain the Finished Relictool.\nThe Quest for the relic will now continue in the Firmament. The Pinnacle of Possibility\n Location: X:9.7 Y:14.6   Skybuilder tool DOH you will now need 60 Oddly Delicate Parts.The Threshold for collectables looks as followed.\nThese Crafts will now be Expert Crafts which means they follow a different system and are not macroable! if you dont know how to handle these, Follow this guide\n    Collectability Received     2500-4499 1   4500-6499 2   6500+ 3    Skybuilder tool DOL Gatherer\u0026rsquo;s now need to collect 2 kind of times.Oddly Delicate Parts and Inconceivable Delicate Part\n1.Some of these items will be in the Diadem!Check your Gathering log for details! 2.Now Collectables will be a part of it aswell.\n 1.Miner/Botanist need to collect 250 Oddly Delicate Parts and 25 Inconceivable Delicate Parts. 2.Fisher needs to collect 200 Oddly Delicate Parts and 200 Oddly Delicate Parts\nThe Thresholds for collectables looks as followed.\nMiner/Botanist    Collectability Received     400-699 1   700-999 3   1000 7    30 High Quality items can be exchanged for 1 Inconceivable Delicate Part.\nFisher All off the fishes will be collectables.The Thresholds are as followed.\n   Collectability Fish Item Recieved     126-295 Flintstrike 1 Oddly Delicate Fishing Rod Part   296-304 Flintstrike 2 Oddly Delicate Fishing Rod Part   305+ Flintstrike 4 Oddly Delicate Fishing Rod Part   62-146 Pickled Pom Oddly Delicate Fishing Reel Part   147-151 Pickled Pom Oddly Delicate Fishing Reel Part   152+ Pickled Pom Oddly Delicate Fishing Reel Part    "
 },
 {
 	"uri": "https://www.spicychicken.quest/relics/lvl70/",

@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.spicychicken.quest/git-involved/putting-it-together/</loc>
+    <lastmod>2021-08-05T00:36:22+01:00</lastmod>
+  </url><url>
     <loc>https://www.spicychicken.quest/guides/group/dungeon/arr/sastasha/</loc>
     <lastmod>2021-07-20T23:26:52+01:00</lastmod>
   </url><url>
@@ -17,11 +20,17 @@
     <loc>https://www.spicychicken.quest/guides/</loc>
     <lastmod>2021-06-13T21:25:00+01:00</lastmod>
   </url><url>
+    <loc>https://www.spicychicken.quest/sproots/</loc>
+    <lastmod>2021-06-13T21:25:00+01:00</lastmod>
+  </url><url>
     <loc>https://www.spicychicken.quest/guides/group/dungeon/</loc>
     <lastmod>2021-06-13T04:03:05+01:00</lastmod>
   </url><url>
     <loc>https://www.spicychicken.quest/tirzah/achievements/</loc>
     <lastmod>2021-06-05T04:30:39+01:00</lastmod>
+  </url><url>
+    <loc>https://www.spicychicken.quest/git-involved/hugo/</loc>
+    <lastmod>2021-08-05T00:35:41+01:00</lastmod>
   </url><url>
     <loc>https://www.spicychicken.quest/guides/group/dungeon/arr/tam-tara-deepcroft/</loc>
     <lastmod>2021-07-23T03:45:50+01:00</lastmod>
@@ -43,6 +52,9 @@
   </url><url>
     <loc>https://www.spicychicken.quest/relics/</loc>
     <lastmod>2021-06-05T04:29:13+01:00</lastmod>
+  </url><url>
+    <loc>https://www.spicychicken.quest/git-involved/github/</loc>
+    <lastmod>2021-08-05T02:11:09+01:00</lastmod>
   </url><url>
     <loc>https://www.spicychicken.quest/guides/group/dungeon/arr/copperbell-mines/</loc>
     <lastmod>2021-07-23T03:48:41+01:00</lastmod>
@@ -68,6 +80,9 @@
     <loc>https://www.spicychicken.quest/tirzah/reputation/</loc>
     <lastmod>2021-06-05T04:31:21+01:00</lastmod>
   </url><url>
+    <loc>https://www.spicychicken.quest/git-involved/git-kraken/</loc>
+    <lastmod>2021-08-05T00:36:07+01:00</lastmod>
+  </url><url>
     <loc>https://www.spicychicken.quest/guides/group/raid/shadowbringers/</loc>
     <lastmod>2021-07-20T22:57:58+01:00</lastmod>
   </url><url>
@@ -85,6 +100,9 @@
   </url><url>
     <loc>https://www.spicychicken.quest/tirzah/collections/</loc>
     <lastmod>2021-06-05T04:38:04+01:00</lastmod>
+  </url><url>
+    <loc>https://www.spicychicken.quest/git-involved/vscode/</loc>
+    <lastmod>2021-08-05T00:35:52+01:00</lastmod>
   </url><url>
     <loc>https://www.spicychicken.quest/git-involved/</loc>
     <lastmod>2021-08-05T00:26:52+01:00</lastmod>
@@ -128,6 +146,9 @@
     <loc>https://www.spicychicken.quest/tirzah/npc_minions/</loc>
     <lastmod>2021-06-05T04:38:56+01:00</lastmod>
   </url><url>
+    <loc>https://www.spicychicken.quest/git-involved/markdown/</loc>
+    <lastmod>2021-08-05T00:35:47+01:00</lastmod>
+  </url><url>
     <loc>https://www.spicychicken.quest/guides/group/dungeon/endwalker/</loc>
     <lastmod>2021-07-20T22:57:58+01:00</lastmod>
   </url><url>
@@ -146,20 +167,19 @@
     <loc>https://www.spicychicken.quest/tirzah/farm/</loc>
     <lastmod>2021-06-07T01:49:24+01:00</lastmod>
   </url><url>
-    <loc>https://www.spicychicken.quest/git-involved/hugo/</loc>
-    <lastmod>2021-08-05T00:35:41+01:00</lastmod>
+    <loc>https://www.spicychicken.quest/guides/group/trial/arr/akh-afah-amphitheatre/</loc>
+    <lastmod>2021-08-20T03:26:29+01:00</lastmod>
   </url><url>
-    <loc>https://www.spicychicken.quest/sproots/</loc>
-    <lastmod>2021-07-25T17:12:38+01:00</lastmod>
-    <priority>0</priority>
+    <loc>https://www.spicychicken.quest/tags/</loc>
+    <lastmod>2021-08-20T03:26:29+01:00</lastmod>
+  </url><url>
+    <loc>https://www.spicychicken.quest/tags/trial/</loc>
+    <lastmod>2021-08-20T03:26:29+01:00</lastmod>
   </url><url>
     <loc>https://www.spicychicken.quest/tags/arr/</loc>
     <lastmod>2021-07-23T03:48:41+01:00</lastmod>
   </url><url>
     <loc>https://www.spicychicken.quest/tags/dungeon/</loc>
-    <lastmod>2021-07-23T03:48:41+01:00</lastmod>
-  </url><url>
-    <loc>https://www.spicychicken.quest/tags/</loc>
     <lastmod>2021-07-23T03:48:41+01:00</lastmod>
   </url><url>
     <loc>https://www.spicychicken.quest/glossary/gcd-ogcd/</loc>

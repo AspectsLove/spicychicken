@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Jun 2021 20:50:45 +0100</lastBuildDate><atom:link href="https://www.spicychicken.quest/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Putting It Together</title>
+      <link>https://www.spicychicken.quest/git-involved/putting-it-together/</link>
+      <pubDate>Thu, 05 Aug 2021 00:36:22 +0100</pubDate>
+      
+      <guid>https://www.spicychicken.quest/git-involved/putting-it-together/</guid>
+      <description>This guide is still under development.
+ These are Tirzah&amp;rsquo;s recommend order of operations for git-ting involved with SpicyChicken Quest  Get Hugo. Get a GitHub account. Contact Tirzah. Grab GitKraken. Pull the repository. Open VSCode Open the folder where you put the repo. Open a terminal in VSCode and type hugo server Visit https://localhost:1313/ and think about what you want to add to make this an even better guide!</description>
+    </item>
+    
+    <item>
       <title>15: Sastasha</title>
       <link>https://www.spicychicken.quest/guides/group/dungeon/arr/sastasha/</link>
       <pubDate>Tue, 20 Jul 2021 23:26:52 +0100</pubDate>
@@ -27,6 +37,17 @@
       <guid>https://www.spicychicken.quest/sproots/everyone/</guid>
       <description>Limit Break is your friend! You can find the action Limit Break in your &amp;ldquo;Actions &amp;amp; Traits&amp;rdquo; window, under &amp;ldquo;General&amp;rdquo;.
  Generally speaking, Limit Break is saved for the last boss for the DPS to use when the boss hits 10% health. This changes as you get further into trials / dungeons / etc. There are unique trials that require the use of LB3 by specific roles in certain circumstances.</description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://www.spicychicken.quest/git-involved/hugo/</link>
+      <pubDate>Thu, 05 Aug 2021 00:35:41 +0100</pubDate>
+      
+      <guid>https://www.spicychicken.quest/git-involved/hugo/</guid>
+      <description>This guide is still under development.
+ The SpicyChicken Quest website is build on the foundation of Hugo. For those techie, you read about it through the link before.
+For everyone else, you do not need to know how it works, why it works, or what it does. The only thing you need to know is that it must be on your system in order for you to contribute to the website.</description>
     </item>
     
     <item>
@@ -51,6 +72,16 @@
       <description>Mechanics are more important than your DPS If you choose to ignore a mechanic, there&amp;rsquo;s a good chance you will die. Dead DPS do no DPS.
  Don&amp;rsquo;t stand in front of the boss It&amp;rsquo;s a good way to get cleaved or tankbustered and die. Dead DPS do no DPS.
  If you&amp;rsquo;re ranged, stay near healer  Healers have heals that are mostly centered around themselves (there are exceptions), but this helps them to be able to do top ups quickly from raidwides.</description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>https://www.spicychicken.quest/git-involved/github/</link>
+      <pubDate>Thu, 05 Aug 2021 02:11:09 +0100</pubDate>
+      
+      <guid>https://www.spicychicken.quest/git-involved/github/</guid>
+      <description>This guide is still under development.
+ Why GitHub? It&amp;rsquo;s easy for people to contribute, has versioning, and is generally just great. Yes, some people do not like that it&amp;rsquo;s part of the Microsoft family, but honestly, it&amp;rsquo;s perfectly fine for a project like this.</description>
     </item>
     
     <item>
@@ -79,6 +110,18 @@
     </item>
     
     <item>
+      <title>Git Kraken</title>
+      <link>https://www.spicychicken.quest/git-involved/git-kraken/</link>
+      <pubDate>Thu, 05 Aug 2021 00:36:07 +0100</pubDate>
+      
+      <guid>https://www.spicychicken.quest/git-involved/git-kraken/</guid>
+      <description>This guide is still under development.
+ QuickLink to Tirzah&amp;rsquo;s Referral Link for GitKraken
+Why do I recommend using GitKraken? The answer to this is multifold:
+ It&amp;rsquo;s a very easy tool to start learning git and versioning. It&amp;rsquo;s easy to teach someone how to pull, push, branch, fork, merge, do pull requests, etc. It&amp;rsquo;s exceptional for those new to the world of git allowing anyone to git involved in a project!</description>
+    </item>
+    
+    <item>
       <title>Tanks</title>
       <link>https://www.spicychicken.quest/sproots/tanks/</link>
       <pubDate>Tue, 20 Jul 2021 22:11:19 +0100</pubDate>
@@ -86,6 +129,16 @@
       <guid>https://www.spicychicken.quest/sproots/tanks/</guid>
       <description>Put on Emnity (threat) Stance Simply having this turned on, you hold threat as long as you hit the targets!
     DRK: Grit WAR: Defiance GNB: Royal Guard PLD: Iron Will            Just because the boss is not physically looking at you does NOT mean you have lost threat There are actions that a boss, or mob will perform that have them physicall turn away from you.</description>
+    </item>
+    
+    <item>
+      <title>VS Code</title>
+      <link>https://www.spicychicken.quest/git-involved/vscode/</link>
+      <pubDate>Thu, 05 Aug 2021 00:35:52 +0100</pubDate>
+      
+      <guid>https://www.spicychicken.quest/git-involved/vscode/</guid>
+      <description> This guide is still under development.
+ </description>
     </item>
     
     <item>
@@ -108,14 +161,28 @@
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>https://www.spicychicken.quest/git-involved/hugo/</link>
-      <pubDate>Thu, 05 Aug 2021 00:35:41 +0100</pubDate>
+      <title>Markdown</title>
+      <link>https://www.spicychicken.quest/git-involved/markdown/</link>
+      <pubDate>Thu, 05 Aug 2021 00:35:47 +0100</pubDate>
       
-      <guid>https://www.spicychicken.quest/git-involved/hugo/</guid>
-      <description>The SpicyChicken Quest website is build on the foundation of Hugo. For those techie, you read about it through the link before.
-For everyone else, you do not need to know how it works, why it works, or what it does. The only thing you need to know is that it must be on your system in order for you to contribute to the website.
- </description>
+      <guid>https://www.spicychicken.quest/git-involved/markdown/</guid>
+      <description>This guide is still under development.
+ What is Markdown? It&amp;rsquo;s a very quick way to add visual structure to lines of text!
+You do not need to know how to code to use Markdown! You just need to know how to write words!
+ Quick Guide to Markdown in Hugo Headers Text Tables Images Are there more fancy things? Hell yeah there are. But for now, let&amp;rsquo;s keep it very simple.</description>
+    </item>
+    
+    <item>
+      <title>50: Akh Afah Amphitheatre [Extreme]</title>
+      <link>https://www.spicychicken.quest/guides/group/trial/arr/akh-afah-amphitheatre/</link>
+      <pubDate>Fri, 20 Aug 2021 03:26:29 +0100</pubDate>
+      
+      <guid>https://www.spicychicken.quest/guides/group/trial/arr/akh-afah-amphitheatre/</guid>
+      <description>Link to detailed guide for trial
+While you&amp;rsquo;re in there, try and find one of the only snowmen made out of 3 balls of snow intead of 2!
+Special Loot Diamond Dust, Shiva Card
+ The Fight! There is a lot of circles to dodge, so pay attention to the circles on the ground and always look for a safe spot.
+ Phase One: Weapon Abilities Staff Form Staff Form: Attacks put debuff on whoever is hit that decreases resistence to slashing.</description>
     </item>
     
     <item>
@@ -174,10 +241,9 @@ Some tankbusters are shared, either between the Main and Off Tank, or the whole 
       
       <guid>https://www.spicychicken.quest/tirzah/css-test/</guid>
       <description>Use to test styles and variations on styles.
-h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Lorem ipsum dolor sit amet, graecis denique ei vel, at duo primis mandamus. Et legere ocurreret pri, animal tacimates complectitur ad cum. Cu eum inermis inimicus efficiendi. Labore officiis his ex, soluta officiis concludaturque ei qui, vide sensibus vim ad.
+h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading More testing Lorem ipsum dolor sit amet, graecis denique ei vel, at duo primis mandamus. Et legere ocurreret pri, animal tacimates complectitur ad cum. Cu eum inermis inimicus efficiendi. Labore officiis his ex, soluta officiis concludaturque ei qui, vide sensibus vim ad.
 rendered as bold text
-rendered as italicized text
-Strike through this text.</description>
+rendered as italicized text</description>
     </item>
     
     <item>

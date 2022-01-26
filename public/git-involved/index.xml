@@ -8,14 +8,68 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Aug 2021 00:26:52 +0100</lastBuildDate><atom:link href="https://www.spicychicken.quest/git-involved/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Putting It Together</title>
+      <link>https://www.spicychicken.quest/git-involved/putting-it-together/</link>
+      <pubDate>Thu, 05 Aug 2021 00:36:22 +0100</pubDate>
+      
+      <guid>https://www.spicychicken.quest/git-involved/putting-it-together/</guid>
+      <description>This guide is still under development.
+ These are Tirzah&amp;rsquo;s recommend order of operations for git-ting involved with SpicyChicken Quest  Get Hugo. Get a GitHub account. Contact Tirzah. Grab GitKraken. Pull the repository. Open VSCode Open the folder where you put the repo. Open a terminal in VSCode and type hugo server Visit https://localhost:1313/ and think about what you want to add to make this an even better guide!</description>
+    </item>
+    
+    <item>
       <title>Hugo</title>
       <link>https://www.spicychicken.quest/git-involved/hugo/</link>
       <pubDate>Thu, 05 Aug 2021 00:35:41 +0100</pubDate>
       
       <guid>https://www.spicychicken.quest/git-involved/hugo/</guid>
-      <description>The SpicyChicken Quest website is build on the foundation of Hugo. For those techie, you read about it through the link before.
-For everyone else, you do not need to know how it works, why it works, or what it does. The only thing you need to know is that it must be on your system in order for you to contribute to the website.
+      <description>This guide is still under development.
+ The SpicyChicken Quest website is build on the foundation of Hugo. For those techie, you read about it through the link before.
+For everyone else, you do not need to know how it works, why it works, or what it does. The only thing you need to know is that it must be on your system in order for you to contribute to the website.</description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>https://www.spicychicken.quest/git-involved/github/</link>
+      <pubDate>Thu, 05 Aug 2021 02:11:09 +0100</pubDate>
+      
+      <guid>https://www.spicychicken.quest/git-involved/github/</guid>
+      <description>This guide is still under development.
+ Why GitHub? It&amp;rsquo;s easy for people to contribute, has versioning, and is generally just great. Yes, some people do not like that it&amp;rsquo;s part of the Microsoft family, but honestly, it&amp;rsquo;s perfectly fine for a project like this.</description>
+    </item>
+    
+    <item>
+      <title>Git Kraken</title>
+      <link>https://www.spicychicken.quest/git-involved/git-kraken/</link>
+      <pubDate>Thu, 05 Aug 2021 00:36:07 +0100</pubDate>
+      
+      <guid>https://www.spicychicken.quest/git-involved/git-kraken/</guid>
+      <description>This guide is still under development.
+ QuickLink to Tirzah&amp;rsquo;s Referral Link for GitKraken
+Why do I recommend using GitKraken? The answer to this is multifold:
+ It&amp;rsquo;s a very easy tool to start learning git and versioning. It&amp;rsquo;s easy to teach someone how to pull, push, branch, fork, merge, do pull requests, etc. It&amp;rsquo;s exceptional for those new to the world of git allowing anyone to git involved in a project!</description>
+    </item>
+    
+    <item>
+      <title>VS Code</title>
+      <link>https://www.spicychicken.quest/git-involved/vscode/</link>
+      <pubDate>Thu, 05 Aug 2021 00:35:52 +0100</pubDate>
+      
+      <guid>https://www.spicychicken.quest/git-involved/vscode/</guid>
+      <description> This guide is still under development.
  </description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://www.spicychicken.quest/git-involved/markdown/</link>
+      <pubDate>Thu, 05 Aug 2021 00:35:47 +0100</pubDate>
+      
+      <guid>https://www.spicychicken.quest/git-involved/markdown/</guid>
+      <description>This guide is still under development.
+ What is Markdown? It&amp;rsquo;s a very quick way to add visual structure to lines of text!
+You do not need to know how to code to use Markdown! You just need to know how to write words!
+ Quick Guide to Markdown in Hugo Headers Text Tables Images Are there more fancy things? Hell yeah there are. But for now, let&amp;rsquo;s keep it very simple.</description>
     </item>
     
   </channel>
