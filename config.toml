@@ -17,11 +17,6 @@ themeVariant = "mine"
 landingPageName = "❤️ Home ❤️"
 
 [[menu.shortcuts]]
-name = "🗺️ FFXIV Hunt Log Path Finder"
-url = "https://hunts.spicychicken.quest/home/"
-weight = 20
-
-[[menu.shortcuts]]
 name="📑 Git Involved"
 url = "/git-involved/"
 weight = 40

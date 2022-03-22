@@ -4,6 +4,11 @@ date: 2021-06-13T08:55:44+01:00
 draft: false
 ---
 
+{{% expand "v0.6.2: Sproot Change" %}}
+* Content
+    - Removed Hunts Path Project as much better [one is available now](https://ffxivhunt.com).
+{{% /expand %}}
+
 {{% expand "v0.6. Sproots Love" %}}
 * Content
     - Moved Roles to be more in your face
